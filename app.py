@@ -244,7 +244,7 @@ st.markdown(
     <div class="topbar">
       <div class="logo"><img src="{ICON}" alt="LIET"></div>
       <div><h1>LIET Assistant</h1><p>Admissions, courses, fees, hostel and placements, answered instantly.</p></div>
-      <div class="status"><span class="dot"></span>Online</div>
+      <div class="status"><span class="dot"></span>Available</div>
     </div>
     """.replace("{ICON}", data_uri("liet-icon.png", "image/png")),
     unsafe_allow_html=True,
