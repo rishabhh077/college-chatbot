@@ -1,0 +1,396 @@
+teachers innovation - Lloyd Engineering College
+Source: https://liet.in/teachers-innovation
+
+Skip to content
+LIET Connect
+E-Brochure
+WhatsApp
+admissions@liet.in
++91 9821582662
+Apply Now 2026-27
+Online Payment
+Click here
+LIET
+Engineering Chemistry Lab Manual
+Institute Vision
+To emerge as an Institute of academic excellence by empowering young minds through problem-solving skills, knowledge & ethical values and transforming them into professionals of global competence.
+Institute Mission - IM: 1
+To create a conducive environment for teaching and learning through continuous engagement with industry for corporate understanding and professionalism.
+IM: 2
+To equip the students with state-of-the-art technological advancement and skills.
+IM: 3
+To focus on holistic development of students through enhanced learning along with moral and ethical value system.
+Significance of Chemistry
+Chemistry plays a crucial role in our daily lives and in solving global challenges. It is the central science that connects physics, biology, and environmental science, enabling progress across multiple fields.
+Health and Medicine:
+Development of life-saving drugs, vaccines, and diagnostic tools.
+Environment:
+Pollution control, water purification, and sustainable energy solutions.
+Agriculture:
+Fertilizers, pesticides, and soil testing for better crop yields.
+Materials:
+Creation of plastics, ceramics, metals, and nanomaterials used in everyday products.
+Food:
+Preservatives, flavorings, and nutritional content analysis for safer, better food.
+Clean Energy:
+Development of batteries, solar panels, and fuel cells for a sustainable future.
+In essence:
+Chemistry helps us understand the world at a molecular level and empowers innovation that benefits society, the economy, and the planet.
+“If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.”
+~ Martin Luther King Jr.
+Welcome to the Chemistry Lab
+This portal contains experiment details, diagrams, observations, and results for various chemistry practical.
+Significance of a Chemistry Laboratory
+Hands-on Learning
+The lab brings theory to life, allowing students to observe reactions, use equipment & understand concepts through hands-on experience.
+Skill Development
+Working in the lab builds essential scientific skills like precise measurement, observation, analytical thinking, and safety awareness.
+Innovation and Discovery
+Labs are where new compounds, materials, and ideas are created, leading to life-saving drugs and major technological advances.
+Understanding Safety and Ethics
+Practicing lab safety and ethical handling of chemicals is vital for real-world scientific work.
+Critical Thinking and Problem Solving
+Experiments often have unexpected results. Interpreting them teaches students how to think critically and troubleshoot effectively.
+Collaboration and Communication
+Labs often involve teamwork, encouraging collaboration and clear communication—skills needed in any scientific or technical career.
+Wear Proper Lab Attire
+Lab coat, safety goggles, gloves, and closed-toe shoes are a must. Tie back long hair.
+No Eating or Drinking
+Never bring food or drinks into the lab. Chemicals and snacks don’t mix!
+Handle Chemicals Carefully
+Read labels twice. Never taste or directly smell chemicals—waft instead.
+Use Flames Safely
+Keep flammable materials away from open flames. Know how to use a fire extinguisher.
+Keep Your Area Clean
+Tidy workspace = safer workspace. Clean spills immediately and dispose of waste properly.
+Follow Instructions
+Always follow your teacher’s or lab manual's instructions. Don’t improvise.
+Know Emergency Procedures
+Know the location of safety showers, eyewash stations, fire extinguishers, and first aid kits.
+Report Accidents
+Tell your teacher about spills, broken glass, or any injuries right away—big or small.
+Label and Store Properly
+Label all containers clearly and store chemicals as instructed.
+Wash Hands After Experiments
+Always wash up before leaving the lab—even if you wore gloves.
+List of Chemicals and Hazards
+Chemical Name
+Hazards
+Hydrochloric Acid (HCl)
+Corrosive, causes burns, harmful if inhaled
+Sodium Hydroxide (NaOH)
+Highly corrosive, causes severe burns, reacts with water
+Sulfuric Acid (H₂SO₄)
+Corrosive, causes burns, reacts violently with water
+Acetone
+Flammable, irritant, causes dizziness if inhaled
+Benzene
+Carcinogenic, flammable, harmful via inhalation or skin
+Ammonia (NH₃)
+Toxic if inhaled, corrosive to eyes/skin, strong irritant
+Ethanol (C₂H₅OH)
+Flammable, irritant, depressant of nervous system
+Nitric Acid (HNO₃)
+Strong oxidizer, corrosive, toxic fumes
+Chloroform (CHCl₃)
+Possible carcinogen, liver/kidney harm, narcotic effect
+Mercury (Hg)
+Toxic by inhalation, harmful to nervous system
+Phenol
+Toxic, corrosive, can cause systemic poisoning via skin
+Hydrogen Peroxide (H₂O₂)
+Oxidizer, may explode under pressure, causes burns
+Potassium Cyanide (KCN)
+Extremely toxic, fatal if ingested or inhaled
+Click here to visit the MSDS (Material Safety Data Sheets)
+12 Principles of Green Chemistry
+Prevention
+Better to prevent waste than to treat or clean it up after it's formed.
+Atom Economy
+Maximize incorporation of materials into the final product.
+Less Hazardous Chemical Syntheses
+Use and generate substances with little or no toxicity.
+Designing Safer Chemicals
+Design products that are effective and have minimal toxicity.
+Safer Solvents and Auxiliaries
+Use safer auxiliary substances only when necessary.
+Design for Energy Efficiency
+Minimize energy usage and favor ambient temperature/pressure.
+Use of Renewable Feedstocks
+Prefer renewable raw materials over depleting ones.
+Reduce Derivatives
+Avoid unnecessary derivatization steps.
+Catalysis
+Use catalytic reagents over stoichiometric ones.
+Design for Degradation
+Chemical products should break down into harmless substances.
+Real-time Analysis for Pollution Prevention
+Enable monitoring and control to prevent hazardous substances.
+Inherently Safer Chemistry for Accident Prevention
+Use safer substances to reduce risks.
+Laboratory Record Format
+Experiment Details
+Experiment Title:
+-------------------------------
+Aim:
+Apparatus and Chemicals:
+Theory:
+Procedure:
+Observations:
+Calculations:
+Result:
+Precautions:
+Apparatus
+Burette
+A burette is a long, graduated glass tube with a tap at the bottom, used in chemistry labs to accurately deliver measured volumes of liquid, especially during titrations. It allows for precise control of the liquid flow, helping determine the exact amount of a solution needed to react with another substance.
+Conical Flask
+A conical flask, also known as an Erlenmeyer flask, is a glass container with a wide base that tapers to a narrow neck. It is commonly used in labs for mixing, heating, and storing liquids. The narrow neck helps prevent spills and reduces evaporation, making it ideal for titrations and reactions that need swirling without losing contents.
+Beaker
+A beaker is a simple, cylindrical glass container with a flat bottom and a small spout for pouring. It’s commonly used in laboratories for mixing, stirring, heating, and measuring liquids (though not very precisely). Beakers come in various sizes and are often marked with volume graduations for rough measurements.
+Measurement Tube
+A measurement tube in chemistry typically refers to a graduated cylinder or measuring tube used for accurately measuring liquid volumes in experiments.
+Experiment 1
+EDTA Complexometric Titration
+Formula of M-EDTA
+Formula of EDTA
+Flow chart
+Take 10 ml water sample
+Add Buffer Solution (pH ~10) – 3 ml
+Add Eriochrome Black T (EBT) – 2–3 drops
+Titrate with 0.01 M EDTA solution
+Before Titration
+Add 10 ml of water + 3 ml of buffer solution (pH ~10) + 2–3 drops of EBT indicator.
+Solution turns wine red indicating presence of Ca²⁺ and Mg²⁺ ions forming a weak complex with EBT
+During Titration
+Titrate with 0.01 M EDTA solution.
+EDTA binds with Ca²⁺ and Mg²⁺ ions to form a stable colorless complex.
+As EDTA removes hardness ions, the wine red color fades.
+End Of Titration
+All hardness ions (Ca²⁺ and Mg²⁺) are complexed with EDTA.
+EBT is free in solution and shows its original color.
+Color changes from wine red to pure blue – indicates endpoint.
+Aim
+Determination of total hardness by complexometric titration method.
+Chemicals Used
+0.1 M EDTA
+Eriochrome Black T
+Water sample
+Buffer solution
+Theory: Determination of Hardness by Complexometric Titration
+Hardness of water is mainly caused by the presence of calcium (Ca²⁺) and magnesium (Mg²⁺) ions. In complexometric titration, these metal ions are quantitatively estimated using EDTA (Ethylenediaminetetraacetic acid), a chelating agent that forms stable, colorless complexes with them.
+Key Steps :
+A buffer solution (pH ~10) is added to maintain the pH level suitable for the reaction.
+An indicator, Eriochrome Black T (EBT), is used. It forms a wine-red complex with Ca²⁺ and Mg²⁺.
+As EDTA is added during titration, it binds with the metal ions, breaking the EBT-metal complex.
+Once all metal ions are complexed by EDTA, the EBT is free and changes color from wine red to blue, indicating the endpoint.
+Reactions
+Ca²⁺/Mg²⁺ + EBT → [Ca/ Mg–EBT] (wine red)
+[Ca/ Mg–EBT] + EDTA → [Ca–EDTA] + EBT (free, blue)
+Observation Table
+Trial
+Initial Reading (mL)
+Final Reading (mL)
+EDTA Used (V₂ in mL)
+Hardness (mg/L)
+0.0
+2.7
+0.27
+5.0
+2.3
+0.23
+7.5
+2.5
+0.25
+Average Hardness
+0.25 mg/L
+Formula Used
+Hardness = (V
+× C
+× 100) / V
+Calculations
+= (0.25 × 100 x 10
+× 100) / 10
+= 250 ppm
+Result
+The Hardness found in the water sample is 250 ppm
+EDTA Complexometric Titration and
+Its Interaction with Sustainable Development
+EDTA complexometric titration is a widely used method to determine metal ion concentrations, especially calcium and magnesium in water. Its interaction with sustainable development goals is important in several ways:
+1. Monitoring Water Quality (SDG 6: Clean Water and Sanitation)
+EDTA titration helps detect hardness in water (due to calcium and magnesium ions), which is crucial for ensuring safe drinking water and maintaining water treatment systems.
+Regular water testing prevents water pollution and supports clean, accessible water for communities.
+2. Environmental Protection (SDG 15: Life on Land & SDG 14: Life Below Water)
+By monitoring heavy metals (like lead or mercury) in soil and water, EDTA titration helps in assessing pollution levels.
+This protects ecosystems and promotes conservation of terrestrial and aquatic life.
+3. Environmental Protection (SDG 15: Life on Land & SDG 14: Life Below Water)
+Industries use EDTA titration to monitor metal waste and improve their waste treatment processes, reducing environmental impact and promoting greener practices.
+4. Resource Management
+By accurately measuring metal contents, industries can recycle materials more efficiently, minimizing waste and promoting a circular economy.
+5. Challenges:
+EDTA itself is not easily biodegradable and can contribute to environmental problems if not handled properly.
+Therefore, green alternatives (like biodegradable chelators) are being researched to make complexometric methods even more sustainable.
+Experiment 2
+Alkalinity of Water
+Method of Titration
+10 mL water sample
+0.01 N HCl (N/100)
+Phenolphthalein (2–3 drops) Methyl Orange (2–3 drops)
+Add 10 mL of water sample + 2–3 drops Phenolphthalein
+If solution turns pink → presence of hydroxide or carbonate
+No color → proceed to add Methyl Orange
+Titrate with N/100 HCl
+Pink color disappears → record V₁ (Phenolphthalein alkalinity)
+Add 2–3 drops of Methyl Orange
+Continue titration → yellow to reddish color change
+Record V₂ (additional volume for total alkalinity)
+All alkalinity neutralized
+Final color: orange/pink
+Determine the Alkalinity of given water samples.
+Water sample, standard sulfuric acid (H₂SO₄) or hydrochloric acid (HCl), phenolphthalein indicator, methyl orange indicator, distilled water.
+Theory: Determination of Alkalinity of Water using Phenolphthalein and Methyl Orange
+Alkalinity of water refers to its capacity to neutralize acids and is primarily due to the presence of hydroxide (OH⁻), carbonate (CO₃²⁻), and bicarbonate (HCO₃⁻) ions. It plays a vital role in water chemistry as it affects the pH and buffering capacity of natural and treated water.
+To determine alkalinity, we titrate the water sample using a standard acid solution (usually H₂SO₄ or HCl) with two indicators:
+Phenolphthalein Indicator
+– changes from pink to colorless at pH ~8.3
+Methyl Orange Indicator
+– changes from yellow to orange-red at pH ~4.5
+Step 1: Titration with Phenolphthalein
+This neutralizes OH⁻ and half of CO₃²⁻:
+OH⁻ + H⁺ → H₂O
+CO₃²⁻ + H⁺ → HCO₃⁻
+The volume of acid used up to this point is noted as P (Phenolphthalein alkalinity).
+Step 2: Titration with Methyl Orange
+This neutralizes the remaining CO₃²⁻ (converted to HCO₃⁻ in step 1) and all the HCO₃⁻:
+HCO₃⁻ + H⁺ → H₂CO₃
+The total volume of acid used (from the start till methyl orange endpoint) is noted as T (Total alkalinity).
+Chemical Reactions Involved
+Hydroxide neutralization:
+Carbonate neutralization (in two stages):
+Stage 1 (phenolphthalein range): CO₃²⁻ + H⁺ → HCO₃⁻
+Stage 2 (methyl orange range): HCO₃⁻ + H⁺ → H₂CO₃
+Interpretation
+By analyzing P and T, you can determine the type of alkalinity present:
+Condition
+Inference
+P = 0
+Only bicarbonate present
+P = T
+Only hydroxide present
+P = ½T
+Only carbonate present
+P < ½T
+Carbonate and bicarbonate
+P > ½T
+Hydroxide and carbonate
+Observation Table - (a) Using Phenolphthalein
+S. No
+Volume of solution taken in titration flask (ml)
+Burette Reading Initial
+Burette Reading Final
+Volume of titrant used (ml)
+10 ml
+0.9
+3.5
+2.6
+5.4
+5.8
+6.2
+Equivalent of phenolphthalein: 3.2 ml
+(b) Using Methyl Orange
+4.9
+9.6
+4.7
+1.9
+6.8
+Equivalent by methyl orange: 5.8 ml
+Calculation
+(i) Phenolphthalein Indicator
+N₁V₁ = N₂V₂
+N₁ × 10 = 0.1 × 3.2
+N₁ × 10 = 0.32
+N₁ = 0.32 / 10
+N₁ = 0.032 N
+Alkalinity = 0.032 × 50 × 1000 mg/l
+= 1600 ppm
+(ii) Methyl Orange
+N₁ × 10 = 0.1 × 1.8
+N₁ × 10 = 0.18
+N₁ = 0.18 / 10
+N₁ = 0.018 N
+Alkalinity = 0.018 × 50 × 1000 mg/l
+= 900 ppm
+Alkalinity of phenolphthalein = 1600 ppm
+Total Alkalinity of methyl orange = 900 ppm
+m = (P - T)
+m = 700 ppm Methyl orange alkalinity
+Sustainable Development of Alkalinity of Water
+Safe drinking water
+Maintains appropriate pH and buffering capacity (supports SDG 6 – Clean Water and Sanitation).
+Healthy aquatic ecosystems
+Proper alkalinity supports biodiversity and prevents harmful pH shifts.
+Efficient agricultural practices
+Balanced alkalinity enhances soil health and crop yield.
+Reduced chemical use
+Avoids over-treatment with acids or bases (supports SDG 12 – Responsible Consumption and Production).
+Improved industrial water management
+Less corrosion and scaling, extending equipment lifespan and reducing resource consumption.
+View More Experiments
+Experiment 3 & 4
+Experiment 5 & 6
+Experiment 7 & 8
+Experiment 9 & 10
+Plot No. 3, Knowledge Park II, Greater Noida, Uttar Pradesh 201306
+Follow Us:
+Icon-facebook
+X-twitter
+Icon-linkedin
+Icon-instagram-1
+Youtube
+Admissions
+Admissions 2026-27
+Apply Now
+Why LIET?
+Scholarship & Aid
+FAQs
+Fee Deposits
+Download Brochure
+Eligibility criteria
+How to Apply?
+Campus Facilities
+Outreach
+Student Clubs
+Contact Us
+List of Admission for Vacant Seats
+Important Link
+LIET ERP
+LIET CRM
+Special Counselling (Spot)Round
+Careers@LIET
+Student Grievance Form
+Teaching & Non-Teaching Grievance Form
+Anti-Ragging
+Women Grievance Cell
+IQAC
+NBA
+Institute Video
+24/7 Women Helpline Number -
+8130 - 0737-38
+For Mental Health Support -
+9220228653
+Resources
+NIRF
+DigiLocker
+Blog
+Journals
+CUET (UG) 2026
+Swayam
+NPTEL
+SIDH (Skill India Digital Hub)
+INFLIBNET
+MOOCs
+Disclaimer
+Privacy Policy
+Cookie Policy
+@2025 LLOYD INSTITUTE OF ENGINEERING & TECHNOLOGY.
+All rights reserved
+Make an Enquiry

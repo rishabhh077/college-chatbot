@@ -1,0 +1,181 @@
+B tech CSE (Computer Science) syllabus [updated 2022]
+Source: https://liet.in/blog/btech-cse-syllabus.html
+
+B tech CSE (Computer Science) syllabus [updated 2022]
+Home
+B tech CSE
+(Computer Science) syllabus [updated 2022]
+04, January
+2022
+Introduction
+B Tech computer science is currently one of the most popular technical curricula. The
+introduction of digitization, which is rapidly taking over the current market, is the cause for
+the rising popularity and competitiveness of this specialization. This course, in addition to
+being in great demand, has the potential to open up future opportunities in areas like
+artificial intelligence, data science, quantum computing, cloud computing, the internet of
+things, robots, machine learning, progressive web applications, serverless computing, blockchain
+technology, big data, network security, augmented reality, virtual reality, mixed reality, and
+more.
+Course Structure
+The first year of the program is designed to introduce students to the principles of all
+engineering disciplines. The study then moves on to more advanced and specialized subdomains of
+computer science, which are spread out over eight semesters and four years. Some institutions,
+such as the
+Lloyd
+Institute of
+Engineering and Technology
+, have created
+specific programs, such
+as the co-op program, to provide industry-integrated training. This way, students get a
+foundation on which later-stage projects can be built while still being aware that something
+quite complex must also occur at the end of each semester or following its completion. Other
+activities to supplement classroom learning comprise periodic industrial trips, mentoring
+programs, volunteer opportunities, and a variety of other activities. This curriculum covers
+industry standard skills such as web development, coding, programming, and much more. The course
+has a strong focus on hands-on learning and experiential learning, allowing students to engage
+with and establish their competence in computer technology, which is critical to creativity and
+innovation.
+Computer Science Engineering Syllabus
+The
+computer science curriculum
+is generally the same throughout all
+colleges, with a few minor
+adjustments and enhancements here and there. Students can choose from a variety of optional
+courses based on their interests. There are core subjects and optional subjects. Each elective
+offers a wide choice of topics that address all of the major concepts that surround it. The
+B-tech syllabus
+also includes mini-projects, field projects, and
+internships that are deemed
+similar to the related courses in terms of credit. The theoretical lectures incorporate lab
+sessions to offer students with practical experience. The semester-by-semester list of
+courses
+and papers studied in the
+B-Tech CSE programme
+shown below. These articles also cover a
+wide
+range of multidimensional issues, from basic notions to more complicated ones. While the
+majority of the topics are related, the main distinction is the breadth of coverage in these
+papers.
+B tech syllabus Semester 1 and Semester 2
+Sno.
+Subjects
+Course Topics
+Engineering Physics/ Engineering Chemistry
+Electromagnetic Field Theory, Wave Optics, Fibre Optics, Relativistic Mechanics,
+Quantum Mechanics,
+Fundamentals of Organic/Inorganic Chemistry, Electrochemistry and Chemical Kinetics,
+Analytical Techniques in Chemistry, Applied Chemistry
+Mathematics 1 and 2
+Probability and Statistics, Linear Algebra, Differential and Integral Calculus,
+Vector
+Calculus, Complex Analysis
+Emerging Domain In Electronics Engineering / Basic Electrical Engineering
+DC/AC Circuits, Steady State Analysis, Transformers, Electrical Machines DC
+Machines,
+Three Phase Induction Motor and Synchronous Machines
+Semiconductor Diode, BPT, Operational Amplifiers, Introduction Of IoT System,
+Digital
+Electronics, Integrated Circuit Technology, Fundamentals Of Communication
+Fundamentals Of Mechanical Engineering And Mechatronics / Programming For Problem
+Solving
+Introduction To Solid Mechanics, IC Engines, Measurement And Control System,
+Mechatronics, Fluid Mechanics And Applications
+Algorithm and Programming Basics, Arithmetic Expression, Iterations and Functions,
+Arrays And Basic Algorithms, Pointers And File Handling
+AI For Engineering/ Emerging Technology For Engineering
+Algorithms, Artificial Neural Networks, Natural Language Processing
+IoT Digital Manufacturing, Future Trends, Blockchain, Cloud Computing,
+Labs
+All Theoretical Courses
+Semester 3
+Data Structure
+Introduction, Basic Data Structures, Arrays, Stacks, Linked Lists, Queues, Graphs
+and
+Trees
+Computer Organization And Architecture
+Introduction, Control Unit, Arithmetic And Logic Unit, Memory Unit, Input/Output
+Discrete Structures And Theory Of Logic
+Functions, Set Theory, Natural Numbers, Propositional Logic, Predicate Logic,
+Algebraic Structures, Lattices, Graphs, Trees, Combinatorics
+Data Structures Using C Lab, Discrete Structure And Logic Lab, Computer Organization
+Lab
+Mini Project Or Internship Assessment
+Semester 4
+Operating Systems
+Basics: Operating System Functionalities, Process Management, Memory Management,
+File
+Systems, Disk Scheduling
+Theory Of Automata And Formal Languages
+Introduction, Regular Expressions And Languages, Regular And Non-Regular Grammars,
+DFAs and NFAs, Context free languages, Pushdown automata (PDAs), Turing machines,
+Recursively enumerable and recursive languages, Undecidability, Intractability
+Microprocessor
+Introduction to Microcomputer and Microprocessor, Addressing Modes, Assembly
+Language
+programming, Timing diagrams, Interrupts, Programmable Interfaces
+Microprocessor Lab, Python Language Programming Lab
+, Operating Systems Lab
+Semester 5
+Database Management Systems
+Introduction, Database design and ER Model, Relational Schemas, Atomic domain and
+Normalization, Data Storage and Indexes, Transaction management and Concurrency
+control, Computational capabilities
+Compiler Design
+Introduction, Lexical Analysis, Syntax Analysis, Types of Parsers, Syntax Directed
+Translation, Application of SDT and SDT schemes, Intermediate Code Generation, Code
+generation and Optimization
+Design And Analysis Of Algorithm
+Introduction, Advanced Data Structures, Advanced Design and Analysis Techniques,
+Dynamic Programming, Algebraic Computation
+Department Elective To Choose From
+Object-Oriented System Design, Data Analytics, Computer Graphics, Web Designing
+Algorithm and Soft Computing, Human Capital Interface, Machine Learning Techniques,
+Augmented And Virtual Reality
+Compiler Design Lab, DMS Lab, Design And Analysis Of Algorithm Lab
+Semester 6
+Software Engineering
+Introduction, Software Requirement Specifications, Requirement Analysis, Software
+Design, Design strategies and methodologies, Software Testing - Unit testing,
+Integration and system testing, Alpha & beta testing, Software Maintenance,
+Maintenance
+models, Documentation
+Web Technology
+Introduction, Web Page Designing, Scripting, Java Database Connectivity, Enterprise
+Java Bean, Servlets and JSP
+Computer Network
+Introduction, Physical Layer, Errors in transmission, Local Area Network Technology,
+Error detection, Network Layer, Internet Protocol, Transport Layer, UDP and TCP,
+Application Layer
+Digital Image Processing, Big Data, Data Compression, Real-Time Systems
+Computer Networks Lab, Software Engineering Lab, Web Technology Lab
+Semester 7
+Elective To Choose From
+Human-Computer Interface, Embedded Systems, High-Performance Computing, Application
+Soft Computing
+Agile Software Development, Cloud Computing, Augmented and Virtual Reality,
+Blockchain
+Architecture Design
+Distributed System
+Characterization Of Distributed Systems, Distributed Mutual Exclusion, Failure
+Recovery In Distributed Systems, Agreement Protocol, Transactions and Concurrency
+Control
+Artificial Intelligence
+Introduction, Search Strategies, Problem spaces, Knowledge Representation And
+Reasoning, Totally-ordered and partially-ordered Planning, Planning, Natural
+Processing, Language models, Agents and Agent Architectures
+Industrial Training
+Semester 8
+Game Programming, Machine Learning, Parallel And Distributed Computing, Image
+Processing
+Quantum Computing, Deep Learning, Speech Natural Language Processing, Data
+Compression
+Seminar
+Project
+Conclusion
+Computer Science Engineering is the course of the future. Computers have changed the way we
+think about and utilize technology, and there is no better moment than now to take advantage of
+this disruptive force. We have covered all you need to know about the BTech syllabus and topics
+in the CSE degree in this article. The employment market for BTech CSE graduates is rapidly
+expanding, and the professionalism and abilities inherent in this engineering specialty may
+provide students with a new degree of market value, prominence, and an unrivaled set of talents.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

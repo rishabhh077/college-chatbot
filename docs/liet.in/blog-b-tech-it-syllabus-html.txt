@@ -1,0 +1,209 @@
+Btech IT (Information Technology) Syllabus and Subjects – Semester wise
+Source: https://liet.in/blog/b-tech-it-syllabus.html
+
+Btech IT (Information Technology) Syllabus and Subjects – Semester wise
+Home
+Btech IT
+(Information Technology) Syllabus and Subjects – Semester wise
+04, April
+2022
+What Is B Tech in Information Technology
+B-tech IT is a professional program that focuses on the development, implementation,
+application, and administration of technology using software and hardware. It is
+tailored for applicants who are passionate about coding, application development,
+business analysis, and technical analysis on the IT side, along with directing,
+structuring, and establishing control systems, etc and assuring a profitable and
+substantial execution on the management side.
+B Tech IT Course Structure
+This course is divided into 8 semesters spread across 4 years. This is a more
+application-based course as opposed to CSE, which involves a little more peep into the
+theoretical aspects of technology. The best thing about studying information technology
+is that it’s a subsystem of CSE, which means the best, most required, and relevant
+course material is crunched from the CSE studies making IT a more tailored study. Most
+of what is taught is directly applicable to real-time work demands. The course structure
+of IT is diverse as it involves subjects from the
+computer science
+branch, making it a
+comprehensive study. A credit-based system is followed to determine the grand-GPA, which
+means involvement in all internal and external assessments, seminars, labs, project
+works, field works, etc.is taken into consideration.
+Eligibility Criteria Required To Study B-tech in Information Technology
+The basic qualifying standards stay the same, although the details may differ from one
+college to the next. Before applying, students should double-check that they meet the
+standards of each institution.
+Students must have received their 12th-grade diploma from a recognized
+institution, such as CBSE, ISCE, or a state board.
+Students in the non-med stream must have studied physics, chemistry, and math in
+12th grade. English is also a required subject at several institutions.
+For restricted categories, pupils must have received a minimum of 45 per cent and
+for unreserved categories, a minimum of 40 per cent. This varies from government to
+private universities, as some colleges need a minimum aggregate of 75 per cent in
+class 12 with 60 per cent in each of the three major disciplines.
+Students must adhere to any other qualification as stated by the university they
+apply to.
+B Tech IT Syllabus In 2022
+Because information technology is such a broad field, it has a lot to offer someone who
+has recently graduated. IT courses are designed to provide students with the conceptual
+knowledge and abilities required by IT firms. Everything is addressed in the B.Tech IT
+programme, whether it be software design, production, or research. Given below is the
+semester wise break up of subjects taught under this course. Depending upon the
+institution, the subjects may vary. However, they’re more or less the same. Let’s look
+at the subjects:
+Subjects Taught Under Semester 1
+computer-aided design and drafting
+Semiconductor Physics
+Principles of Electrical and Electronics Engineering
+Programming and Problem Solving
+Programming for Problem Solving Lab
+Introduction to Computer Science and Engineering
+Calculus and Abstract Algebra
+Environmental Science
+Subjects Taught Under Semester 2
+Engineering Physics
+Engineering Chemistry
+Application-based Programming in Python
+Probability and Statistics
+Mechanical Workshop
+Human Value & Ethics
+Subjects Taught Under Semester 3
+Mathematical Foundations of Computer Science
+Data Structures
+Digital Logic Design and Computer Organization
+Electronic Devices and Circuits
+Basic Electrical Engineering Electrical and Electronics Lab
+Data Structures Lab
+Subjects Taught Under Semester 4
+Principles of Programming Languages
+Database Management Systems
+Java Programming
+Environmental studies
+Data Communication
+Design and Analysis of Algorithms
+Java Programming Lab
+Database Management Systems Lab
+Subjects Taught Under Semester 5
+Automata and Compiler Design
+Linux Programming
+Software Engineering
+Operating Systems
+Computer Networks
+Managerial Economics and Financial Analysis
+Operating Systems Lab
+Computer Networks Lab (Through Linux)
+Subjects Taught Under Semester 6
+Web Technologies
+Object-Oriented Analysis and Design
+Data Warehousing and Data Mining
+Software Testing Methodologies
+Cloud Computing
+Data Mining and Web Technologies Lab
+Advanced Communication Skills Lab
+Subjects Taught Under Semester 7
+Information Security
+Design Patterns
+Mobile Application Development
+Information Retrieval Systems
+ELECTIVE – I
+Wireless Networks and Mobile
+Computing Image Processing and Pattern Recognition
+Soft Computing
+Semantic Web and Social Networks
+Operations Research
+ELECTIVE – II
+Software Project Management Computer Graphics
+Human-Computer Interaction
+Scripting Languages
+Computer Forensics
+Case Tools and Software Testing Lab
+Mobile Applications Development Lab
+Subjects Taught Under Semester 8
+Management Science
+ELECTIVE III
+Web Services E-Commerce
+Middleware Technologies
+Ad hoc and Sensor Networks
+ELECTIVE IV
+Multimedia & Rich Internet Applications
+Artificial Intelligence
+Storage Area Networks
+Machine Learning
+Industry Oriented Mini Project
+Seminar
+Project Work
+Common Course Electives to Choose From
+S.no.
+Electives
+Electivesa
+Software Reliability
+Embedded Systems
+VLSI Design
+Object-Oriented System Design
+Computer Graphics
+Computational Complexity
+Modelling And Simulation
+Datamining
+Digital Communication
+Advanced Computer Architecture
+Mobile Computing
+Dependable Computing
+Applied Graph Theory
+Symbolic Logic
+Theory Of Computation
+Parallel Algorithms
+Principles Of Programming Languages
+Robotics
+Computational Geometry
+Sensor Networks
+Image And Video Processing
+Fault-Tolerant Systems
+Computational Intelligence
+Networks And Systems Security
+Data Analytics
+Digital Signal Processing
+Communication Network
+Interconnection Networks
+Natural Language Processing
+High-Performance Computing
+Top Career Profiles and Job Description after B-tech In Information Technology
+1. Web Specialist—
+Website production professionals work with high-end technology
+companies and government organizations on online design and content formulation.
+2. Network Architect—
+the role of the Network Architect is to provide frameworks
+and standards for computer systems, including its hardware elements, organisation,
+configuration, and interaction. They also consider the system's overall effectiveness
+and operational parameters.
+3. Computer Analyst—
+a system analyst's responsibilities include assessing
+software and hardware compatibility, developing new systems, and assisting personnel in
+implementing previously built systems.
+4. Consultant in Information Technology—
+IT consultants work with businesses on a
+contract basis, advising them on how to use information technology effectively to
+achieve their goals.
+5. Officer in Charge of Technology—
+Chief Technology Officers are responsible for
+supervising the operations of IT workers, evaluating the possible scope of expansion in
+a given programme, and assessing the risk involved.
+6. Software Developer—
+An application developer's job is to create new and
+exciting apps for electronic computing devices, as well as to design and evaluate them.
+7. Programmer—
+Programmers create diverse programmes from the ground up, test them
+for functionality, fix any errors that are discovered, and keep meticulous records of
+the instructions.
+8. Manager of Data Processing—
+Data processing managers keep track of all the
+activities that take place within the department of information systems and software
+applications. They supervise the operations of the division's employees.
+Conclusion
+Considering a degree in IT not only allows applicants to keep up with technological
+advancements but also allows them to grasp the processes underlying them. Every
+organisation and the corporate entity must use this procedure as a standard backhand. IT
+also broadens the pool of applicants for positions in the telecommunications, ,
+education, and business sectors, making it one of the most prospective career options.
+There is no possibility of obsolescence. Designing systems, delivering functionality,
+operating the system, and administering the system are all part of the job. New
+improvements are also made, and beta versions of such technologies are being developed.
+As a result, professions in this industry can never be redundant.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

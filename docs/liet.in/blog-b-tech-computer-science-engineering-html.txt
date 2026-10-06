@@ -1,0 +1,130 @@
+B. Tech Computer (CSE) - Course Details, Admissions, Science Engineering Fees
+Source: https://liet.in/blog/b-tech-computer-science-engineering.html
+
+B. Tech Computer (CSE) - Course Details, Admissions, Science Engineering Fees
+Home
+Tech Computer (CSE) - Course Details, Admissions, Science Engineering Fees
+16,June
+2021
+Introduction
+What Is Computer Science Engineering
+A computer science engineer is a person who engages directly in software development,
+programming, computer languages, operating systems, maintaining databases, interfaces, and all
+other things related to computing. It is the science of working with software systems to grow
+businesses and cater to new forms of innovation. Computer science engineering, thus, is said to
+be that branch of engineering that involves designing and developing computer algorithms to
+favour purposeful outcomes for enterprises.
+Scope of pursuing Btech in CSE in 2021
+Btech in computer science engineering in 2021 is the most widely pursued program because of its
+relevance and relativity to present times. The advent of digitalisation has transformed the
+entire outlook of business companies and their operating potential. With more and more companies
+venturing into the realm of digital marketing, the need for techno-savvy individuals with strong
+expertise in computer science dynamics has been increasing at an alarming rate. This has made it
+possible for CSE graduates to gain employability through their skills and knowledge and put it
+to the right use.
+Along with this, the start-up culture in India in 2021 has gained momentum, which has a lot to do
+with entrepreneurial competencies embedded in students pursuing CSE. This has widened the scope
+of opportunities available to computer science engineering graduates, thereby adding to job
+security. This may perhaps be the only branch of engineering that is immune to a recession by
+all means. This means that CSE is currently the most promising and profitable specialisation in
+engineering and the best career choice for students looking forward to setting foot in digital
+systems.
+Curriculum Of Computer Science Engineering
+Like any other branch of engineering, the curriculum of computer science engineering is
+comprehensively divided into eight semesters spanning a total of four years. Starting from the
+basics, the syllabus progresses into subjects that hold importance as per the current trends and
+technology. This allows the students to enhance their grip on subjects from the foundational
+levels and ensures sequential learning without missing out on the essential strengthening of
+core concepts. The particular thing about the curriculum of CSE is that the changes and up
+gradation in technologies are so frequent that the scope of a curriculum being outdated is
+almost impossible. This means the students only learn what’s relevant with the market today, and
+gain a hold of subjects that will complement their practical application in developing a solid
+workforce for the future. In computer science engineering, the curriculum contains core
+subjects, electives along with balanced periods of the lab and each subject is allotted set
+points of credit that students must achieve. All the subjects and requirements are explained in
+detail in the curriculum which students are supposed to focus on every semester to get promoted
+to the next one. It acts as a blueprint for the entire program.
+Subjects Taught Under Computer Science Engineering
+The subjects taught to computer science students are in accordance with upcoming verticals
+evolving in the digital fields. Various new subjects like robotics and automation, artificial
+intelligence, the internet of things and many more are getting introduced as a part of the
+curriculum. Following is a list of some of the core subjects taught under BTech in computer
+science. While some of these subjects are mandatory for all engineering domains, others towards
+the last semesters are specific only to computer science engineering.
+Introduction To Computer Programming
+Linear Algebra And Ordinary Differential Equations
+Data Analysis And Interpretation
+Abstractions And Paradigms In Programming
+Data Structures And Algorithms
+Automatic Theory And Logic
+Software Systems
+Computer Architecture
+Database And Information Systems
+Artificial Intelligence
+Implementation Of Programming Languages
+Computer Networks
+Computational Models In Pattern Recognition
+Software Engineering
+Machine Learning
+Principles Of Programming Languages
+Introduction To Wireless Networks
+Functional And Logic Programming
+Top 10 Colleges Offering Computer Science Engineering In 2021 With Their Fees
+There are a plethora of institutions in India that offer the degree of BTech in computer science,
+including both the private and the public ones. Even if the students do not score high enough to
+get admission into top-ranking colleges for CSE in India, there are just enough colleges for
+every student that wishes to pursue a career in computer science engineering. Following is a
+list of top institutions in India offering computer science engineering along with their fees.
+Government Colleges For CSE And Their Fees
+S.No.
+Name of the college
+Fees
+Indian Institute of Technology Madras
+8.20 lakhs
+Delhi Technological University Delhi
+7.81 lakhs
+College of Engineering Trivandrum
+1.8 lakhs
+Punjab Engineering College Chandigarh
+6.99 lakhs
+JNTUH College of Engineering Hyderabad
+82k
+Dr B R Ambedkar National Institute of Technology Jalandhar
+5.66 lakhs
+Visvesvaraya National Institute of Technology Nagpur
+5.38 lakhs
+Indian Institute of Technology Banaras Hindu University Varanasi
+8.58 lakhs
+National Institute of Technology Delhi
+6.37 lakhs
+Indian Institute of Technology Kanpur
+8.31 lakhs
+Private Colleges For CSE And Their Fees
+Lloyd Institute of Engineering and Technology Greater Noida
+5.6 lakhs
+DayanandSagar College of Engineering Bangalore
+3.89 lakhs
+SRM Institute of Science and Technology Chennai
+9.5 lakhs
+Vellore Institute of Technology Vellore
+7.8 lakhs
+BhartiyaVidyapeeth Deemed University College of Engineering Pune
+5.1 lakhs
+Heritage Institute of Technology Kolkata
+3.83 lakhs
+Manipal Institute of Technology Manipal
+16.96 lakhs
+Nirma University Ahmedabad
+7.54 lakhs
+Hindustan Institute of Technology and Science Chennai
+10.62 lakhs
+JamiaHamdard New Delhi
+7.31 lakhs
+Thus, the students who want to pursue BTech in CSE in 2021 can read about the overview of the
+course in this article. It has been established time and again that information technology is
+taking over the businesses in India with a rapid force, and this alone has opened up hundreds of
+thousands of job prospects for CSE graduates in India. Students can substantiate being a part of
+this IT revolution by opting for a BTech degree in computer science, and train themselves to be
+the future of a highly competent and technologically skillful workforce, all this while
+attaining 100% financial stability.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

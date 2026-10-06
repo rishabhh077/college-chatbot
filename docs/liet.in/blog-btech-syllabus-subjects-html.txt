@@ -1,0 +1,238 @@
+B. Tech Syllabus and Subjects – Semester Wise in Different Specializations
+Source: https://liet.in/blog/btech-syllabus-subjects.html
+
+B. Tech Syllabus and Subjects – Semester Wise in Different Specializations
+Home
+B.Tech
+Lateral Courses and Admission Eligibility – All about it
+08,February
+2022
+Introduction
+Engineering is regarded as one of the most prestigious professions in India. Whether you're a
+budding tech geek or a fearless explorer who enjoys getting to the bottom of things, pursuing
+this career can help you channel your passions. Pursuing engineering in India demands a strong
+performance in +2 with non-medical stream topics such as physics, chemistry, and math, as well
+as qualifying for the national level
+engineering entrance
+exam
+- JEE. However, before jumping into a course just because it sounds lucrative as a
+career, it is imperative that you know the subjects that you're going to study and find out your
+pick based on the subjects you're interested in and would like to pursue further.
+Let's look at some known specializations in Engineering as well as the subjects covered under
+them. All these courses are divided into 8 semesters and involve 4-5 core subjects per branch.
+Alongside, students are required to pick an elective of their choice in each semester, which
+differs from college to college. These subjects are given as follow:
+B. Tech Civil Engineering
+This branch of Engineering deals with the construction, maintenance, understanding, planning, and
+designing of civil structures primary to robust countrywide infrastructure. Let's look at the
+subjects divided under the curriculum of
+Civil Engineering
+as per the
+different semesters.
+Semester 1 & Semester 2
+Engineering Physics
+Engineering Chemistry
+Applied Mathematics
+Construction Materials
+Fundamentals Of Mechanical Engineering And Mechatronics
+Engineering Drawing-I
+Computer-Aided Drawing
+General Workshop Practice
+Semester 3
+Semester 4
+Probability, Statistics
+Numerical Techniques
+Linear Programming Mechanics Of Solids-L
+Mechanics Of Solids-II
+Mechanics Of Fluids - I
+Mechanics Of Fluids - Il
+Surveying - I
+Surveying - II
+Concrete Technology
+Environmental Engineering
+Building Planning And Drawing
+Semester 5
+Semester 6
+Environmental Engineering - II
+Structural Analysis - Il
+Structural Analysis -1.
+Transportation Engineering - I
+Concrete Structures -I
+Concrete Structures-Ll
+Steel Structures - I
+Steel Structures - Il
+Hydraulic Machinery
+Computer-Aided Design - 1
+Advanced Strength Of Materials
+Estimation, Costing
+Semester 7
+Semester 8
+Matrix Methods Of Structural Analysis
+Management Concepts And Practices
+Transportation Engineering - II
+Prestressed Concrete Structures
+Irrigation And Hydraulic Structures
+Chosen Electives
+Industrial Economics
+Computer-Aided Design - II
+B.Tech Computer Science Engineering
+Computer science
+engineering
+is a branch of engineering that has to do with the knowledge of software,
+programming languages, Algorithms, and much more. With technologies like IoT stepping up
+constantly and businesses relying heavily on digital platforms, this specialization has become
+the current hot career path that many young and keen tech-geeks are opting for. Let's look at
+the complete list of subjects covered under CSE per Semester.
+Semester 1 & 2
+Engineering Physics/ Engineering Chemistry
+Engineering Mathematics
+Basics of Electrical Engineering
+Programming For Problem Solving/Fundamentals Of Mechanical Engineering And Mechatronics
+AI For Engineering/ Emerging Technology For Engineering
+Data Structure
+Operating Systems
+Computer Organization And Architecture
+Theory Of Automata And Formal Languages
+Discrete Structures And Theory Of Logic
+Microprocessor
+Mini Project Or Internship Assessment
+Database Management Systems
+Software Engineering
+Compiler Design
+Web Technology
+Design And Analysis Of Algorithm
+Computer Network
+Department Elective To Choose From
+Distributed System
+Artificial Intelligence
+Seminar
+Industrial Training
+Project Work
+B. tech Mechanical Engineering
+The main role of Mechanical Engineers includes applying the principles of Physics and Mathematics
+to analyze, ideate, and design the best, most suited, ergonomic, and operation-specific
+mechanical systems. This is an evergreen branch of engineering for various reasons. Here are
+some of the subjects and Semester wise syllabus for mechanical engineering courses.
+Read
+also -
+Career Options
+after Mechanical Engineering
+Semester 1
+Semester 2
+Engineering Mathematics 2
+Basic Electronics
+Engineering Graphics
+Programming In Python
+Introduction To C Programming/ Python
+Material Science
+Professional Communication Skills
+Introduction To Mechanical Engineering
+Special Functions And Statistics Applied Electrical Engineering
+Fourier Series And Partial Differential Equations
+Applied Electronics Engineering
+Engineering Metallurgy Production Technology - II
+Production Technology - I
+Thermal Engineering
+Strength Of Materials.
+Mechanics Of Machines - I
+Engineering Thermodynamics
+Fluid Mechanics
+Numerical Methods.
+Turbomachines
+Mechatronics
+Automobile Engineering
+Compressible Flow And Jet Propulsion
+Design Of Mechanical Drives
+Heat And Mass Transfer
+Computer-Aided Design And Drafting
+Mechanics Of Machines - II
+Refrigeration And Air Conditioning
+Analysis And Design Of Machine Components
+Management Principles And Concepts
+Power Plant Engineering Metrology And Quality Control
+Resource Management Techniques
+Oil Hydraulics And Pneumatics
+Elective
+Electives To Choose From
+B. tech Electrical Engineering
+Electrical engineering, despite the general belief, is one of the most promising branches of
+engineering, merely because its operation stems from the most necessary component of human
+lives— electricity. There's no denying that the need and requirement of
+electrical engineering
+professionals are quite constant. Let's take a look at some subjects that students cover in the
+EE curriculum.
+Mathematics
+Elements Of Civil Engineering And Mechanics
+Chemistry
+Element Of Electrical Engineering
+Elements Of Mechanical Engineering
+Physics Theory And Practical
+Environmental Studies
+Professional Ethics And Human Values
+Computer Programming
+Mathematics /Science-Based Open Elective
+Analog & Digital Electronics
+Thermal & Hydraulic Machines
+Electro-Mechanical Energy Conversion
+Electro-Mechanical Energy Conversion-I
+Network Analysis And Synthesis
+Electrical Measurement & Measuring Instruments
+Instrumentation & Process Control
+Basic System Analysis
+Electric Machines
+Control Systems
+Communication Engineering
+Digital Signal Processing
+Measurement And Electronic Instruments
+Power Electronics
+Electromagnetic Engineering
+Power Systems
+Department Electives
+Industrial Training Defense
+B. tech Electronics & Communication Engineering
+This line of engineering comes with the study of digital communication, analogues, control
+Systems, coding, information theory and a lot more. With the ever booming telecom industry,
+there is plenty of scope for ECE students to work with. Have a look at some of the core subjects
+that fall under the spectrum of the ECE branch of engineering.
+English And Technical Communication
+Engineering Physics 2
+Electrical Science
+Programming For Problem Solving
+Data Structures And Algorithms
+Probability Theory And Random Processes
+Economics And Management
+Signals And Systems
+Algorithms For Data Structures
+Electromagnetic Fields And Waves
+Electronic Devices And Circuits
+Electronic Devices And Circuits 2
+Digital System Design
+Linear Integrated Circuits
+Electrical Circuits And Systems
+Microprocessors And Interfacing
+Electronic System Design And Manufacturing
+Transmission Lines And Antennas
+High-Performance Computing Architecture As
+Control Systems Engineering
+Digital Communication
+Embedded Systems
+Industrial Automation And Instrumentation
+VLSI Design And Technology
+Analogue Communication
+Communication Networks
+Microwave Engineering
+Information Theory And Coding
+Introduction To Soft Computing
+Advanced Communication
+Mobile Communication
+Elective To Choose From
+Departmental Elective
+Summary
+In this article, we have covered the syllabus and subjects that fall under all the branches of B
+Tech undergraduate programmes, including specializations in computer science engineering,
+mechanical engineering, civil engineering, electrical engineering, as well as electronics and
+communication engineering. If you're looking to know the in-depth course structure of any of the
+branches of engineering along with the
+B. Tech semester wise subjects
+that fall under them, your search ends here!
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

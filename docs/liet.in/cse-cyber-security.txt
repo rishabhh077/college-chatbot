@@ -1,0 +1,49 @@
+CSE in Cyber Security | LIET, Delhi NCR
+Source: https://liet.in/cse-cyber-security
+
+Computer Science & Engineering (Cyber Security)
+College is where you are shaped according to the person you want to be in the future.
+The Cybersecurity department is dedicated to providing students with a solid foundation in security technologies, risk management, and threat mitigation, preparing them for successful careers in the fast-paced and ever-evolving field of cybersecurity.
+The Cybersecurity Department is committed to fostering self-reliance in education and technology, delivering a high-quality academic experience. It offers a well-rounded curriculum that balances theory and practice, equipping students to navigate modern cybersecurity challenges. Through impactful research and active industry collaboration, the department ensures alignment with current security trends and stakeholder expectations.
+Expert Faculty with a Research Edge, Hands on and real exposure through dedicated Forensic Lab
+Real-world simulations using Kali Linux, Wireshark, Metasploit, and Virtual Pen-Testing Labs
+Career Pathways Graduates are prepared for roles such as Security Analyst, Penetration Tester, SOC Engineer, Threat Intelligence Analyst, and Cyber Forensic Expert.
+Hackathons & Technical Events Regular internal and external events to encourage problem-solving, teamwork, and real-time application of skills.
+Vision
+To become a center of excellence in Cybersecurity by fostering innovation, interdisciplinary research, and ethical practices for safeguarding digital assets and infrastructures.
+Mission
+To provide comprehensive, industry-relevant education in cyber security that blends theoretical foundations with hands-on experience in securing digital assets.
+To equip students with advanced skills in threat detection, vulnerability analysis, ethical hacking, and risk management using modern tools and frameworks.
+To foster critical thinking, innovation, and research to address emerging cyber threats and develop secure digital solutions for society and industry.
+Things To Know First
+LIET is one of India’s leading engineering colleges, known for industry-ready education and strong career outcomes.
+Scholarship Up To 100%
+Placement-Ready Culture from Day One
+Learn, Build, Innovate with AI/ML
+Learn from experienced faculty and industry experts
+Apply Now
+Program Specific Outcomes (PSOs)
+To design, implement, and evaluate secure systems and cybersecurity solutions using modern tools, technologies, and frameworks.
+To demonstrate proficiency in addressing cybersecurity issues across domains such as healthcare, finance, critical infrastructure, and smart cities.
+To exhibit ethical responsibility, strong communication, and collaborative skills in multidisciplinary teams to effectively deploy cybersecurity solutions in real-world scenarios.
+Empowering Minds, Changing Lives, Shaping Futures
+Syllabus
+Computer Science & Engineering (Cyber Security) Labs
+Cryptography and Network Security Lab
+The Cryptography and Network Security Lab provides hands-on experience in securing digital systems and networks. Students learn to implement encryption algorithms, analyze network traffic, and explore tools like Wireshark, Nmap, and Metasploit. The lab focuses on real-world cybersecurity practices, including ethical hacking, secure communication protocols, and vulnerability assessment, preparing students for roles in cybersecurity and network defense.
+Database Management System Lab
+The Lab is dedicated for Oriented Languages and Database related practicals and projects. High configuration computer systems with relevant softwares like Java, C++, along with frontend and backend softwares like Net Beans, Visual studio, MySQL are installed to design, develop and implement Database related projects and assignments.
+Web Technology Lab
+The Lab is dedicated to gain hands experience on web technologies. The high configuration machines are equipped with relevant software tools like Eclipse, visual studio, PHP, Web server, XAMPP, WAMP, LAMP, and Net Beans to name a few.
+“Tomorrow belongs to those who master technology today.”
+CSE - Cyber Security Faculty List
+Sr. No.
+Name of the faculty
+Present designation
+Deepak Mishra
+Assistant Professor
+Ashutosh Bhatnagar
+Vaibhav Vats
+Atul Kumar Rai
+Professor of Practice
+Sanjay Shah

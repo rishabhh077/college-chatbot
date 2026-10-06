@@ -1,0 +1,51 @@
+M.Tech Programs | LIET, Delhi NCR
+Source: https://liet.in/m-tech
+
+M.Tech (CSE)
+College is where you are shaped according to the person you want to be in the future.
+The Master of Technology (M.Tech) programme under Dr. A.P.J. Abdul Kalam Technical University (AKTU), Uttar Pradesh, is a postgraduate degree aimed at providing advanced knowledge and research opportunities in various engineering and technology disciplines. The programme is designed to develop technical skills, innovation, and problem-solving abilities among students to meet industry and academic demands.
+Duration
+2 years (4 semesters) full-time programme.
+Specializations
+Offered in Computer Science & Engineering.
+Research & Projects
+Encourages dissertation, industrial training, and research publications.
+Career Scope
+Prepares students for roles in R&D, academia, public sector, and high-end technical jobs.
+Vision
+To emerge as a recognized hub for Cyber Security education and research, producing ethically responsible, highly skilled cybersecurity professionals who protect and empower digital infrastructures in a rapidly evolving technological world.
+Mission
+Provide support and facilities to create and disseminate knowledge in the area of Computer Science and Engineering.
+Things To Know First
+LIET is one of India’s leading engineering colleges, known for industry-ready education and strong career outcomes.
+Scholarship Up To 100%
+Placement-Ready Culture from Day One
+Learn, Build, Innovate with AI/ML
+Learn from experienced faculty and industry experts
+Apply Now
+Placement
+Achieve Your Career Goals with Our 100% Placement Guarantee. Secure the Highest Salary Packages in the Field.
+Program Educational Objectives (PEOs)
+To develop graduates who have strong theoretical foundations and advanced practical skills
+in computer science and engineering, enabling them to design, analyze, and implement solutions to complex computing problems in industry and research.
+To enable graduates to pursue research, development, and higher-level academic opportunities
+, preparing them for careers in academia, industry R&D, and entrepreneurial ventures.
+To promote professional growth through lifelong learning, ethical practice, and leadership
+, equipping students to adapt to evolving technologies and contribute positively to society and their profession.
+Program Specific Outcomes (PSOs)
+Apply advanced computer science principles and contemporary tools
+to analyze, model, design, and implement effective computing solutions for complex problems in industry and research.
+Demonstrate proficiency in current and emerging technologies
+(such as algorithms, data structures, distributed systems, and software engineering) to develop optimized, secure, and scalable solutions that meet real-world requirements
+Exhibit research aptitude and professional competencies
+, including communication, teamwork, ethical practice, and lifelong learning, enabling graduates to contribute meaningfully to technological innovation and societal needs.
+Empowering Minds, Changing Lives, Shaping Futures
+Syllabus
+Computer Science & Engineering Lab
+Data Analytics Lab
+The Lab provides the platform to prepare the students with the statistical, mathematical reasoning, machine learning, knowledge discovery and visualization skills, The students will have an opportunity to learn principles, tools and techniques to model various real world problems, analyse them, and discover useful information. The lab facilitates high configuration machines with relevant softwares like Jupyter, R, Python, Keras, tensorflow to name a few.
+Database Management System and Object Oriented Lab
+The Lab is dedicated for Oriented Languages and Database related practicals and projects. High configuration computer systems with relevant softwares like Java, C++, along with frontend and backend softwares like Net Beans, Visual studio, MySQL are installed to design, develop and implement Database related projects and assignments.
+Web Technology and Multimedia Lab
+The Lab is dedicated to gain hands experience on web technologies. The high configuration machines are equipped with relevant software tools like Eclipse, visual studio, PHP, Web server, XAMPP, WAMP, LAMP, and Net Beans to name a few.
+“College is the meeting point where the river of your dreams meets the river of your realities.”

@@ -1,0 +1,142 @@
+B. Tech in Electrical Engineering 2021 Courses, Exams, Eligibility
+Source: https://liet.in/blog/b-tech-electrical-engineering.html
+
+B. Tech in Electrical Engineering 2021 Courses, Exams, Eligibility
+Home
+Tech in Electrical Engineering 2021 Courses, Exams, Eligibility
+08,June
+2021
+Introduction
+Engineering has been an evergreen profession for the longest of time, which makes it the most
+sought-after career line for students who have studied non-medical. More and more upcoming
+technologies are emerging in the current times, which makes it a viable as well as a profitable
+vocation for students who aspire to be future technologists. Currently, there are over 15
+specialisations in engineering offering various combinations of skills and knowledge. These
+specializations include computer science engineering, electronics and communication engineering,
+mechanical engineering, civil engineering,
+electrical engineering
+, and
+more.
+In this article, we’ll look closely at electrical engineering in 2021, and cover its scope,
+eligibility criteria, placement status, profiles, and curriculum.
+Why electrical engineering?
+Electrical engineering is the branch of technology that deals in the designing, developing,
+manufacturing, working, and application of systems that require electricity, electronics, and
+electromagnetism for their functioning. Businesses in the present times rely heavily on electric
+power supply, and sometimes their entire USP is based on the same principle. There are a wide
+number of disciplines that are interrelated with electrical engineering, and their integration
+is what makes the business viable. The high-tech sector uses information processing and signals
+coupled with the functionality of digital electronics, artificial intelligence, control systems,
+etc, and requires power at its very core. This deems the domain of electrical engineering a
+strong necessity and expands the scope of its application in the present times.
+Electrical engineering stands as the most accredited specialisation in the realm of science and
+technology and offers the students to work in sectors that make use of cutting-edge technology
+to foster growth on global levels. This is because the curriculum for electrical engineering is
+designed in an adaptable, upgraded, and advanced manner with the core principles of electrical
+engineering intact. Let’s look at the curriculum for electrical engineering in a detailed model.
+Curriculum Of Btech In Electrical Engineering
+Pursuing a BTech in electrical engineering in 2021 has opened the doors to the study of various
+systems that are in alignment with modern market dynamics. Considering the present scenario, the
+need for the development of mechanisms that focus on refinement and precision, is fool-proof,
+and optimised at the micro-level has risen manifolds. Electrical engineering aids in ensuring
+these specifications are met and controls these systems at the most basic levels. The curriculum
+for BTech in electrical engineering spans 8 semesters in a period of 4 years. Students are
+taught the essentials of this domain in the first semester, along with a little of what other
+specialisations of engineering have in common, like computer programming, data analysis and
+interpretation, linear algebra etc. from here the curriculum progress into a more complex and
+comprehensive study of subjects encompassing the domain of electrical engineering.
+Given below is the list of subjects that electrical engineering students are taught. The main
+objective of a well-rounded curriculum is to strengthen the basic concepts and enable students
+to dwell in the vastness of those subjects. An enriching curriculum also allows students to
+progress into the complexities of electrical engineering, as well as gain a stronghold of the
+technicalities surrounding it.
+Subjects Under Electrical Engineering
+Introduction To Electrical Systems
+Electricity And Magnetism
+Introduction To Electronics
+Network Theory
+Electronic Devices
+Signals And Systems
+Analogue Circuits
+Electrical Machines And Power Electronics
+Digital Systems
+Microprocessors
+Electromagnetic Waves
+Digital Signal Processing
+Digital Communications
+Power Systems
+Electronics Design
+Control And Communication
+Power Electronics
+Physical Electronics
+Circuit Simulation In Power Electronic
+Behavioral Theory Of Systems
+Physics Of Transistors
+Entrance exams for electrical engineering
+Students aspiring to pursue a career in electrical engineering are required to appear for the
+common entrance tests that are a must to secure admission in any university offering b tech.
+There’s no exclusive exam for electrical engineering per se, all entrance exams open up a common
+opportunity for students, and they can decide their specialisation according to their
+preference, as well as on the basis of marks they manage to secure in the entrance exam. Let’s
+look at the
+top 15 engineering
+entrance exams
+that allow students to take up b.tech in electrical engineering as their
+career option.
+S.No.
+Name of the exam
+Level of the exam
+Minimum % required
+JEE MAINS
+National level
+Not specified
+VITEEE
+University level
+60%
+MET
+50%
+SRMJEEE
+CG PET
+State level
+45%
+ASSAM CEE
+Uni-GAUGE-E
+AMU EE
+AP EAMCET
+BITSAT
+75%
+OJEE
+KIITEE
+HPCET
+KCET
+UPCET
+Eligibility criteria to pursue electrical engineering
+Even though the basic criteria to pursue electrical engineering remains somewhat similar across
+all institutions, there might be minor differences in specific requirements. These can be
+pertaining to the minimum aggregate percentage, subjects opted for in 12th, cut off marks, basis
+of calculation of merit for provisional lists, and any other university-specific requirement.
+Let’s look at some of the common criteria that are a must for students to fulfill, in order to
+secure admissions to colleges offering this program. Students must note that the eligibility to
+pursue electrical engineering is the same as the eligibility to opt for any other specialisation
+of engineering.
+Students must have opted for physics, chemistry and maths, as their main subjects i.e. non
+medical stream in their 12th standard. For many institutions, having studied the english
+language in 12th is also a preferred parameter for students to be eligible to get admission
+into various universities.
+As of 2021, there have been new updates issued by the government stating that securing 75%
+in class 12th is no longer a requirement for students to be able to appear for the JEE exam.
+However, the minimum average percentage for the unreserved category is 45% and the reserved
+category is 40%. It is important to note that this requirement may differ from university to
+university. If we take into consideration the minimum percentage required to attempt BITSAT,
+it is still 755 with a minimum of 60% in each paper.
+Students should have passed their 12th from a recognised institution, either state board,
+CBSE, or ICSE to sit in the exam.
+Career in Electrical Engineering
+Numerous opportunities are available for students aspiring to pursue electrical engineering. As
+said above, the very core of all working systems is power, without which it is impossible to
+sustain an efficiently running mechanism. This is to say that electrical engineering has
+inadvertently become an indispensable unit of all businesses. Not just that, new technologies
+that include fiber optics, media and image processing, cryptography and more are burgeoning and
+there’s a wide array of work opportunities that these advancements have created. Electric power
+infrastructure is another work area that electrical engineers have immense scope in.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

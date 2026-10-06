@@ -1,0 +1,159 @@
+experiment 7 and 8 - Lloyd Engineering College
+Source: https://liet.in/experiment-7-and-8
+
+LIET
+Engineering Chemistry Lab Manual
+Institute Vision
+To emerge as an Institute of academic excellence by empowering young minds through problem-solving skills, knowledge & ethical values and transforming them into professionals of global competence.
+Institute Mission - IM: 1
+To create a conducive environment for teaching and learning through continuous engagement with industry for corporate understanding and professionalism.
+IM: 2
+To equip the students with state-of-the-art technological advancement and skills.
+IM: 3
+To focus on holistic development of students through enhanced learning along with moral and ethical value system.
+Significance of Chemistry
+Chemistry plays a crucial role in our daily lives and in solving global challenges. It is the central science that connects physics, biology, and environmental science, enabling progress across multiple fields.
+Health and Medicine:
+Development of life-saving drugs, vaccines, and diagnostic tools.
+Environment:
+Pollution control, water purification, and sustainable energy solutions.
+Agriculture:
+Fertilizers, pesticides, and soil testing for better crop yields.
+Materials:
+Creation of plastics, ceramics, metals, and nanomaterials used in everyday products.
+Food:
+Preservatives, flavorings, and nutritional content analysis for safer, better food.
+Clean Energy:
+Development of batteries, solar panels, and fuel cells for a sustainable future.
+In essence:
+Chemistry helps us understand the world at a molecular level and empowers innovation that benefits society, the economy, and the planet.
+Experiment 7
+Determination of Available Chlorine in Bleaching Powder
+Flow Chart
+Before Titration
+Weigh ~1 g bleaching powder and dissolve in 250 mL distilled water.
+Pipette 25 mL of solution into conical flask.
+Add potassium iodide and acetic acid.
+During Titration
+Liberated I₂ gives brown color.
+Titrate with N/10 Na₂S₂O₃ until pale yellow.
+Add starch → solution turns blue.
+Continue until blue color disappears.
+End of Experiment:
+Note burette reading.
+Repeat to get concordant values.
+Calculate % chlorine using formula.
+Aim
+To determine the percentage of available chlorine in the given sample of bleaching powder.
+Requirements
+Bleaching powder sample
+Standard sodium thiosulphate solution (N/10)
+Potassium iodide (KI) solution
+Glacial acetic acid or dilute acetic acid
+Starch indicator
+Distilled water, burette, pipette, conical flask, beakers
+Theory
+Bleaching powder contains calcium hypochlorite, which reacts with potassium iodide in acidic medium to liberate iodine (I₂). The liberated iodine is titrated with sodium thiosulphate.
+Reactions:
+Ca(OCl)₂ + 4KI + 2CH₃COOH → CaCl₂ + 2KCl + 2CH₃COOK + 2H₂O + I₂
+I₂ + 2Na₂S₂O₃ → 2NaI + Na₂S₄O₆
+Procedure:
+Weigh about 1 g of bleaching powder and dissolve in 250 mL of distilled water. Filter if necessary.
+Pipette out 25 mL of the filtrate into a conical flask.
+Add 10 mL of KI solution and a few drops of acetic acid.
+Allow the solution to stand for 5 minutes in the dark.
+Titrate the liberated iodine with N/10 sodium thiosulphate until the solution becomes pale yellow.
+Add a few drops of starch indicator (solution turns blue-black).
+Continue titration until the blue color just disappears.
+Note the volume of sodium thiosulphate used.
+Repeat for concordant readings.
+Observation Table
+Trial
+Initial Burette Reading (mL)
+Final Burette Reading (mL)
+Volume Used (mL)
+0.0
+23.0
+22.8
+Average Volume
+22.93 mL
+Calculations
+Available chlorine (%) = (V × N × 35.5 × 100) / (1000 × W)
+Where:
+V = Volume of sodium thiosulphate used (mL)
+N = Normality of sodium thiosulphate
+W = Weight of bleaching powder in 25 mL aliquot
+35.5 = Equivalent weight of chlorine
+Result
+The percentage of available chlorine in the bleaching powder sample is calculated using the above formula.
+Sustainability in Determination of Available Chlorine in Bleaching Powder
+Safe Water Disinfection
+Accurate chlorine measurement ensures effective and safe dosing, protecting ecosystems and human health.
+Prevents Overuse of Chemicals
+Avoids unnecessary chemical usage and reduces environmental load.
+Supports Public Health
+Helps ensure drinking water safety, supporting SDG 6 – Clean Water and Sanitation.
+Reduces Harmful Byproducts
+Prevents over-chlorination and formation of toxic byproducts.
+Encourages Responsible Lab Practice
+Promotes minimal use and safe disposal of reagents (aligned with SDG 12 – Responsible Consumption and Production).
+Experiment 8
+Verification of Beer’s Law
+Before Measurement
+Prepare standard dye/K₂Cr₂O₇ solutions (0.02–0.10 M).
+Set appropriate wavelength on colorimeter.
+Calibrate with blank (distilled water).
+During Measurement
+Measure absorbance of each solution.
+Record concentration vs absorbance.
+Repeat for consistent values.
+End of Experiment
+Plot absorbance vs concentration graph.
+Straight-line graph confirms Beer–Lambert law.
+To verify Beer’s Law by measuring the absorbance of colored solutions of known concentrations using a colorimeter or spectrophotometer.
+Requirements:
+Colorimeter or spectrophotometer
+Standard dye or potassium dichromate solution
+Cuvettes
+Volumetric flasks and pipettes
+Distilled water
+Theory:
+Beer’s Law states that absorbance (A) is directly proportional to concentration (c) for a fixed path length (l) and molar absorptivity (ε):
+A = ε × c × l
+By plotting absorbance vs. concentration, we should obtain a straight line passing through the origin.
+Prepare a series of standard solutions of known concentrations (e.g., 0.02, 0.04, 0.06, 0.08, 0.10 M).
+Set the colorimeter to the appropriate wavelength for the solution.
+Use distilled water as a blank to calibrate the instrument.
+Measure the absorbance of each standard solution.
+Plot absorbance (Y-axis) against concentration (X-axis).
+Concentration (mol/L)
+Absorbance (A)
+0.02
+0.12
+0.04
+0.25
+0.06
+0.38
+0.08
+0.51
+0.10
+0.64
+Since the absorbance increases linearly with concentration, Beer’s Law is verified.
+Graph
+Plot a graph of Absorbance (Y-axis) vs. Concentration (X-axis). A straight line confirms Beer’s Law.
+Sustainability in Verification of Beer’s Law
+Efficient Resource Use
+Small volumes of solutions are needed, minimizing chemical consumption and waste.
+Non-destructive Testing
+Spectrophotometry does not alter the sample, allowing safe disposal or reuse.
+Promotes Green Chemistry
+Analytical precision is achieved without excess reagents.
+Safe Practice
+No toxic or corrosive substances involved, ensuring a safer laboratory environment.
+Supports SDG 12
+Encourages responsible usage of chemicals and energy in educational and industrial settings.
+View More Experiments
+Experiment 1 & 2
+Experiment 3 & 4
+Experiment 5 & 6
+Experiment 9 & 10

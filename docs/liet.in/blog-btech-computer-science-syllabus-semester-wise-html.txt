@@ -1,0 +1,165 @@
+B. Tech Computer Science Syllabus 2021 – Semester Wise
+Source: https://liet.in/blog/btech-computer-science-syllabus-semester-wise.html
+
+B. Tech Computer Science Syllabus 2021 – Semester Wise
+Home
+Tech Computer Science Syllabus 2021 – Semester Wise
+23, Aug
+2021
+Introduction
+B.Tech
+computer science
+is one of the most popular courses in the present times. The reason
+behind this increased popularity and competitiveness of this specialization is the advent of
+digitalization taking over the modern market at a spectacular rate. Along with being high in
+demand, this course also has the potential to open up prospects that are in the context of the
+future, like artificial intelligence, the internet of things, robotics, machine learning,
+augmented reality, and more.
+Curriculum overview
+The curriculum for this course is designed to acquaint students with the basics of all
+engineering domains in the first year. The course then transgresses into deeper and more
+specialized subdomains covered under computer science, divided evenly into 8 semesters spanning
+4 years. Some universities like Lloyd institute of engineering and technology have also
+introduced special provisions for industry integrated training through specialized programs such
+as the co-op program. Other endeavors include frequent industrial visits, mentorship programs,
+and many other activities to complement classroom learning. 21st-century skills like web
+development, coding, programming, and much more are covered under this program. The emphasis of
+the course is on experiential work and practical learning, which allows learners to engage with
+and establish their expertise in computer technology with great significance to creativity and
+innovation.
+Computer Science Syllabus
+The
+syllabus of computer
+science mostly remains the same across all
+institutions with some minor
+changes and updates here and there. There are core subjects and elective subjects, students are
+given the option to choose their preferred elective according to their area of interest. Each
+elective contains its own extensive and diverse subject range covering all the crucial concepts
+that surround it. The syllabus also includes mini-projects, field projects, and internships
+which are deemed equivalent to the respective courses in terms of credits. All theoretical
+subjects contain lab sessions to ensure the practical experience of students.
+Following is the detailed list of semester-wise subjects and papers covered in the BTech CSE
+course. These papers further include various multidimensional topics ranging from simpler
+concepts to more complex ones. While most of the subjects are interrelated, the major difference
+lies in the depth with which these papers are covered.
+Semester 1 and Semester 2
+S.No.
+Subjects
+Course Topics
+Engineering Physics/ Engineering Chemistry
+Relativistic Mechanics, Electromagnetic Field Theory, Quantum Mechanics, Wave
+Optics,
+Fibre Optics, And Laser
+Atomic And Molecular Structure, Spectroscopic Techniques And Application,
+Electrochemistry, Water Analytics, Polymer
+Engineering Mathematics
+Matrices, Differential Calculus, Multivariable Calculus, Vector Calculus
+Basic Electrical Engineering/ Emerging Domain In Electronics Engineering
+DC Circuits, Steady State Analysis Of Single Phase AC Circuits, Transformers,
+Electrical Machines DC Machines, Three Phase Induction Motor, 3 Phase Synchronous
+Machines, Electrical Installation
+Semiconductor Diode, Bipolar Junction Transistor, Operational Amplifiers,
+Of IoT System, Digital Electronics, Ic Technology, Fundamentals Of Communication, In
+Introduction Communication
+Programming For Problem Solving/Fundamentals Of Mechanical Engineering And
+Mechatronics
+Introduction, Idea Of Algorithm, Programming Basics, Arithmetic Expression, Loops,
+And Functions, Arrays And Basic Algorithms, Pointers And File Handling
+Introduction To Mechanics Of Solid, IC Engines, Fluid Mechanics And Applications,
+Measurement And Control System, Mechatronics
+Ai For Engineering/ Emerging Technology For Engineering
+Overview To AI, Data & Algorithms, Natural Language Processing, Artificial Neural
+Networks, Applications
+Internet Of Things, Cloud Computing, Blockchain, Digital Manufacturing, Future
+Trends
+Labs
+All Theoretical Courses
+Semester 3
+Sno.
+Data Structure
+Introduction, Arrays, Linked List, Stacks, Queues, Searching, Graphs, Trees
+Computer Organisation And Architecture
+Introduction, Arithmetic And Logic Unit, Control Unit, Memory, Input/Output
+Discrete Structures And Theory Of Logic
+Set Theory, Functions, Natural Numbers, Algebraic Structures, Lattices,
+Propositional
+Logic, Predicate Logic, Trees, Graphs, Combinatorics
+Data Structures Using C Lab, Computer Organisation Lab, Discrete Structure And
+Logic
+Lab
+Mini Project Or Internship Assessment
+Semester 4
+Operating Systems
+Introduction, Concurrent Processes, Cpu Scheduling, Memory Management, I/O
+Management,
+And Disk Scheduling
+Theory Of Automata And Formal Languages
+Basic Concepts And Automata Theory, Regular Expressions And Languages, Regular And
+Non-Regular Grammars, Post Down Automata And Properties Of Context-Free Languages,
+Turing Machines, And Recursive Function Theory
+Microprocessor
+Microprocessor Introduction, Pin Diagram And Internal Architecture, Assembly
+Language
+Programming, Interrupts, Classification, Peripheral Devices
+Operating Systems Lab, Microprocessor Lab, Python Language Programming Lab
+Semester 5
+Database Management Systems
+Introduction, Rational Data Model And Language, Database Design And Normalisation,
+Transaction Processing Concepts, Concurrency Control Technique
+Compiler Design
+Introduction, Basic Parsing Techniques, Syntax Directed Translation, Symbol Tables,
+Code Generation
+Design And Analysis Of Algorithm
+Introduction, Advanced Data Structures, Dynamic Programming, Algebraic Computation
+Department Elective To Choose From
+Data Analytics, Web Designing, Computer Graphics, Object-Oriented System Design
+Machine Learning Techniques, Algorithm, And Soft Computing, Augmented And Virtual
+Reality, Human Capital Interface
+DMS Lab, Compiler Design Lab, Design And Analysis Of Algorithm Lab
+Semester 6
+Software Engineering
+Introduction, Software Requirement Specifications, Software Design, Software
+Testing,
+Software Maintenance In Software Project Management
+Web Technology
+Introduction, Web Page Designing, Scripting, Enterprise Java Bean, Java Database
+Connectivity, Servlets, Java Server Pages
+Computer Network
+Introduction, Physical Layer, Link Layer, Network Layer, Transport Layer,
+Application
+Layer
+Big Data, Image Processing, Real-Time Systems, Data Compression
+Computer Networks Lab, Web Technology Lab, Software Engineering Lab
+Semester 7
+Elective To Choose From
+Embedded Systems, Application Of Soft Computing, High-Performance Computing,
+Human-Computer Interface
+Cloud Computing, Blockchain Architecture Design, Agile Software Development,
+Augmented, And Virtual Reality
+Distributed System
+Characterization Of Distributed Systems, Distributed Mutual Exclusion, Agreement
+Protocol, Failure Recovery In Distributed Systems, Transactions And Concurrency
+Control
+Artificial Intelligence
+Introduction, Introduction To Search, Knowledge Representation And Reasoning,
+Machine
+Learning, Pattern Recognition
+Industrial Training
+Semester 8
+Machine Learning, Game Programming, Image Processing, Parallel And Distributed
+Computing
+Speech Natural Language Processing, Deep Learning, Data Compression, Quantum
+Seminar
+Project
+Conclusion
+Btech in Computer science engineering is the course of the future. Computers have revolutionized
+our entire outlook on the perception and use of technology, and there are no better times to
+exploit this disruptive force than now. In this article, we have covered everything you need to
+know about the syllabus and topics covered under
+BTech
+in the CSE course
+. The job market for
+BTech CSE graduates is rising at a rapid rate, and the professionalism and skills persistent to
+this engineering specialization can bring the students a new level of market value, prestige,
+and an unmatchable set of skills.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

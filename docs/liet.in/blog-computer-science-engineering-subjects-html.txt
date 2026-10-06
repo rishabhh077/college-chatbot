@@ -1,0 +1,169 @@
+Computer science engineering subjects in first year
+Source: https://liet.in/blog/computer-science-engineering-subjects.html
+
+Computer science engineering subjects in first year
+Home
+Computer
+science engineering subjects in first year
+05, April
+2022
+What is Computer Science Engineering (CSE)?
+The study of programming languages such as C, C++, Java, PHP, and object-oriented
+programming is part of computer science engineering. Learning, analyzing, managing,
+creating, and building software are all aspects of
+computer science
+engineering
+. The key
+to this procedure, however, is good algorithm implementation and coding. Alongside
+theory knowledge in computer science programs, the student must comprehend and apply
+algorithms, analyze software, and have coding skills. Students interested in this
+subject will learn about topics including algorithms, operating systems, data
+structures, databases, information retrieval, robots, and human-computer interaction.
+Electrical engineering is also built on the foundation of computer science engineering.
+A person who is interested in computers can benefit greatly from studying computer
+science engineering.
+Computer Science Curriculum
+The
+curriculum
+of computer science engineering
+, like that of any other area of
+engineering, is divided into eight semesters over the course of four years. Starting
+with the fundamentals, the curriculum moves to courses that are important in light of
+contemporary technologies and innovations. This helps students to improve their
+understanding of subjects at the basic level and assures sequential learning without
+missing out on important core idea reinforcement. The unique aspect of the CSE
+curriculum is that technological updates and modifications occur so often that it is
+nearly impossible for a curriculum to become outdated.
+This implies that students will only learn what is now relevant in the market and will
+obtain knowledge of areas that will enhance their practical application in establishing
+a strong career pathway. The curriculum in computer science engineering includes core
+topics, electives, and structured lab sessions, and each subject has a specified number
+of points of credit that learners must obtain. The curriculum explains all of the
+courses and requirements that students must focus on each semester in order to be
+promoted to the following one. It serves as a roadmap for the entire course.
+Latest Trends in Computer Science Engineering
+It should be noted that all of the developed countries that are evolving as superpowers
+today are doing so due to advancements in their IT sectors. The only thing that those
+countries have in common is their ability to adapt to changing conditions and catch up
+to the rest of the world. This necessitates the presence of qualified and motivated
+personnel who are constantly monitoring and working to develop these systems. The
+following are some sectors that, if integrated, have the ability to substantially
+advance the domain of CSE.
+1. Artificial Intelligence (AI) —
+Artificial intelligence is a method of
+programming a computer, a computer-controlled robot, or software to think intellectually
+in the same way as intelligent humans do. AI is achieved by understanding how the human
+brain works, as well as how humans learn, decide and operate when attempting to solve a
+problem, and then leveraging the results of this research to construct sophisticated
+software systems.
+2. The technology of Drones —
+the term "drone" originates from the realm of science
+fiction. Drones are employed for a variety of purposes, including cinematography,
+military surveillance, and leisure pursuits. Drones are at the crossroads of aerospace,
+robotic systems, and mechatronics. Drones can range from completely independent
+military-grade drones to the typical remote-controlled drones you would see a child
+flying in a park. Drones are typically called Unmanned Aerial Vehicles (UAV).
+3. Blockchain Data —
+Blockchain is a method of storing data in such a manner that
+it is nearly impossible to alter, hack, or defraud it. A blockchain is a digital log of
+transactions which can be copied and distributed throughout the network of computer
+systems.
+4. Cloud Computing —
+Cloud computing is the supply of various services, such as
+data storage, platforms, databases, networking, and software, through the Internet.
+Cloud storage allows you to save files to a distant repository and access them whenever
+you need them.
+5. Virtual Reality —
+The use of computer knowledge to develop a modeled world is
+known as virtual reality (VR). In contrast to typical user interfaces, virtual reality
+holds the capacity to immerse the user in an otherworldly experience. Users are
+engrossed and able to engage with 3D worlds rather than watching a display in front of
+them.
+6. Internet of Things —
+The Internet of Things (IoT) is a network of
+interconnected, internet-connected items that can gather and transmit data without the
+need for human interaction across a wireless network.
+7. Cybersecurity and Privacy —
+The technique of protecting computers, websites,
+mobile devices, communications devices, networks, and data against malicious intrusions
+is known as cyber security. The integrity of data and security is protected by
+information security, in storage as well as in transmission.
+Computer Science Subjects In The First Semester
+Sno.
+Name Of The Subjects
+Topics Covered Under It
+Computational Mathematics
+Set Theory, Combinatorics, Mathematical Logic, Linear Algebra
+Basic Electronics
+Physics Of Semiconductor Devices, P-N Junction, Bipolar Junction Transistors
+(Bjts), Field Effect Transistors (Fets), Operational Amplifiers (Op-Amp),
+Multivibrator Circuits, Power Supply, Electronic Measuring Equipment,
+Data Structure
+Data Structure And Algorithm Preliminaries, Arrays, Linked List, Stack,
+Queue, Graph Algorithms, Tree, Binary Search Tree
+Communication Skill
+Basic Skills Development Using English As A Medium, Speaking, Grammar, Modes
+Of Address, Reading And Writing
+Systems Programming
+System Hardware And Software Interaction, Language Issues, Translation Of
+Low-Level Languages And High-Level Languages, Assemblers, Tools,
+Microprocessors, Linking And Loading, Compilers
+Digital Logic
+Switching Algebra And Its Applications, Synthesis And Analysis Of Logic
+Circuits, Registers And Processor Level Design Of Digital Systems, Synthesis
+Of Sequential Machines, Static And Dynamic Memories, PLA And PROM
+Computer Science Subjects In the Second Semester
+Probability And Statistics, Transforms, Numerical Methods
+Computer Organization
+CpuOrganisation, Memory Organisation, System Organisation, Program I/O,
+DMA And Interrupt I/O Programming
+Data Communications
+Introduction To Communication Systems, Data, Signal And Transmission,
+Goals Of Computer Network, Encoding, Bandwidth Utilization Techniques,
+Transmission Media, Switched Networks, Information Theory
+Operating Systems
+Introduction, Memory Management, Virtual Memory, File And Directories,
+Device Drivers, Disk Management Security And Protection Mechanism
+Microprocessor & Microcontroller
+Introduction To Microprocessors And Microcomputers, Memory Organization,
+Machine Cycles, Timer0 & Timer1, Microcontroller 8051
+Formal Language & Automata Theory
+Introduction And Review Of Finite State Machines, Finite Automata (FA) &
+Regular Expression, Regular Set, Grammar, Pushdown Automata, Turing
+Machine, Undecidability
+List of Common Electives under Computer Science Engineering
+Artificial Intelligence
+Embedded Systems
+Computer Graphics
+Probability Theory For Computer Engineers
+Digital Image Processing
+Machine Learning
+Network Programming
+Software Project Management
+Data Mining
+Human-Computer Interaction
+Parallel And Distributed Algorithms
+Information And Network Security
+Modeling And Simulation
+Quantum Computing
+Cloud Computing
+Multi Multimedia
+Cognitive Systems
+Social Network Analysis
+Intrusion Detection Systems
+Wireless Networks
+Conclusion
+In some universities,
+the subjects taught in the first year of computer
+science and engineering
+programmes are the same as subjects taught
+under any
+other realm of engineering. This is done to acquaint students with
+engineering study as a whole, and allow them to know a little about all
+branches of engineering, thus giving them a chance to explore their
+interests. In this article, we have listed down the common subjects taught
+to CSE majors in their first year, as well as the main topics that are
+covered under those subjects. We have also covered in detail the common
+electives about CSE and brief introductions to the latest trends in the
+industry.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

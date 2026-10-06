@@ -1,0 +1,63 @@
+CSE in AI & Machine Learning | LIET, Delhi NCR
+Source: https://liet.in/cse-aiml
+
+Computer Science & Engineering (AI/ML)
+College is where you are shaped according to the person you want to be in the future.
+focuses on developing intelligent systems using artificial intelligence and machine learning, preparing students to build smart applications in areas like data science, robotics, and automation.
+The AI/ML Department is committed to ensuring self-sufficiency in education and technology, providing a high-quality teaching-learning experience. It focuses on delivering a robust curriculum that blends theoretical knowledge with practical application, preparing students for the evolving tech landscape. The department emphasizes research that addresses real-world challenges and fosters industry collaboration through outreach services. By aligning its efforts with industry needs, the department ensures it meets the expectations of its stakeholders while advancing the field of AI/ML.
+Curriculum aligned with Industry Needs Covers core areas like Machine Learning, Deep Learning, Computer Vision, NLP, Data Science
+Hands-on Learning Experience Extensive Training & lab sessions, mini-projects, and real-world datasets integrated with each subject.
+Expert Faculty and Mentorship Faculty with Industry Experience in AI, ML, and Data Science domains Provides Personalized academic mentoring and guidance for career paths.
+Interdisciplinary Exposure Problem statements from different fields like IoT, robotics, informatics nurtures a multi-domain mindset.
+Vision
+To become a center of excellence in Artificial Intelligence and Machine Learning by fostering innovation, interdisciplinary research, and ethical AI practices
+Mission
+To impart foundational and advanced knowledge in Artificial Intelligence and Machine Learning through interdisciplinary learning to solve real-world problems.
+To design inclusive and responsible intelligent systems that contribute to sustainable and equitable societal development.
+To nurture globally competent professionals by equipping students with the skills, adaptability, and mindset needed to thrive in the dynamic fields of AI and ML.
+Things To Know First
+LIET is one of India’s leading engineering colleges, known for industry-ready education and strong career outcomes.
+Scholarship Up To 100%
+Placement-Ready Culture from Day One
+Learn, Build, Innovate with AI/ML
+Learn from experienced faculty and industry experts
+Apply Now
+Program Specific Outcomes (PSOs)
+To design, implement, and evaluate AI/ML models and systems using contemporary tools and frameworks
+To demonstrate proficiency in solving real-world problems across domains like healthcare, finance, and smart cities and other areas.
+To exhibit ethical responsibility, effective communication, and collaborative skills in multidisciplinary teams for the successful deployment of AI/ML solutions in real-world applications.
+Empowering Minds, Changing Lives, Shaping Futures
+Syllabus
+Computer Science & Engineering (AI/ML) Labs
+Artificial intelligence Lab
+The AI Lab provides a dynamic environment for students to explore and experiment with cutting-edge technologies in machine learning, deep learning, and data science. Equipped with Open tools and real-world datasets, it supports hands-on learning, and AI-driven solutions.
+Database Management Lab
+The Lab is dedicated for Database related practicals and projects. High configuration computer systems with relevant softwares like Java, C++, along with frontend and backend softwares like Net Beans, Visual studio, MySQL are installed to design, develop and implement Database related projects and assignments.
+Machine learning Lab
+The Machine Learning Lab offers a practical space for students to dive into machine learning algorithms, data analysis, and model development. It fosters hands-on experience, enabling students to implement and experiment with machine learning techniques for real-world problem-solving.
+“Learn the skills that shape tomorrow.”
+CSE - AI/ML Faculty List
+Sr. No.
+Name of the faculty
+Present designation
+Ashish Kumar Verma
+Associate Professor
+Aman Rajput
+Assistant Professor
+Ashutosh Kasera
+Ekta
+Harsh Kaushik
+Jyoti Sharma
+Maneet Siddhu
+Manish Sharma
+Mehak Agarwal
+Pawanesh Kumar Verma
+Tanya Aggarwal
+Trapti Jadon
+Vishal Gupta
+Vishwas Kumar Sharma
+Vivek Kumar
+Prince
+Professor of Practice
+Sanjay Katiyar
+View More

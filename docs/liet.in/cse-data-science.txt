@@ -1,0 +1,60 @@
+CSE in Data Science | LIET, Delhi NCR
+Source: https://liet.in/cse-data-science
+
+Computer Science & Engineering (Data Science)
+College is where you are shaped according to the person you want to be in the future.
+The Data Science Engineering department empowers students with the skills to extract insights from data, blending statistics, machine learning, and technology to solve real-world problems and drive innovation.
+The Data Science Department is dedicated to fostering a self-sufficient learning environment that prioritizes both educational excellence and technological advancement. It focuses on delivering a comprehensive curriculum that seamlessly combines foundational theories with hands-on experience, ensuring that students are well-prepared for the dynamic and rapidly evolving tech industry. The department places a strong emphasis on solving real-world problems, encouraging innovation and exploration within the field. The department’s efforts align with current market demands and contribute to the advancement of data science. By maintaining a strong connection with industry trends and stakeholder expectations, the Data Science Department plays a pivotal role in shaping the future of this ever-changing field.
+Future-Ready Curriculum, domain-Specific Knowledge through Electives.
+Provides Strong Programming Foundation Proficiency in Python,SQL, and other data science tools.
+Curriculum integrates courses of computer science, Data Science, AI, Machine Learning, and Big Data technologies.
+Prepares for multiple roles such as Data Analyst, Data Engineer, ML Engineer, Business Intelligence Developer, and AI Research Associate.
+Vision
+To become a center of excellence in Data Science by fostering innovation, interdisciplinary research, and ethical data-driven practices for solving complex problems.
+Mission
+To impart foundational and advanced knowledge in Data Science through interdisciplinary learning, enabling students to extract insights and build intelligent solutions from data.
+To design inclusive, ethical, and responsible data-driven systems that promote sustainable development and equitable societal growth.
+To nurture globally competent professionals by equipping students with the analytical skills, adaptability, and critical thinking required to thrive in the dynamic field of Data Science.
+Things To Know First
+LIET is one of India’s leading engineering colleges, known for industry-ready education and strong career outcomes.
+Scholarship Up To 100%
+Placement-Ready Culture from Day One
+Learn, Build, Innovate with AI/ML
+Learn from experienced faculty and industry experts
+Apply Now
+Program Specific Outcomes (PSOs)
+To design, develop, and evaluate data-driven models and systems using modern tools, technologies, and frameworks in Data Science.
+To demonstrate the ability to apply Data Science techniques to solve real-world problems across domains such as healthcare, business, environment, and smart cities.
+To exhibit ethical responsibility, effective communication, and collaborative skills in multidisciplinary teams for the successful deployment of Data Science solutions in practical applications.
+Empowering Minds, Changing Lives, Shaping Futures
+Syllabus
+Computer Science & Engineering (Data Science) Labs
+Data Mining and Data Warehousing
+Data Mining focuses on analyzing large datasets to discover patterns and insights using techniques such as classification, clustering, and regression, helping predict trends and support informed decision-making.
+Data Warehousing introduces students to the design and management of data warehousing systems, enabling efficient organization and use of large-scale data for business intelligence and analytics.
+Data Analytics and Visualization Lab
+The Data Analytics and Visualization Lab is designed to provide students with hands-on experience in analyzing and interpreting data. The lab focuses on using tools and techniques to explore, process, and visualize complex datasets. It enables users to uncover insights, identify trends, and make data-driven decisions through interactive visualizations.
+Big Data and Analytics Lab
+The Big Data and Analytics Lab is equipped to handle and analyze large-scale datasets using modern tools and technologies. It provides a platform for students to work with big data frameworks like Hadoop, Spark, and databases, enabling efficient data processing, storage, and analysis. The lab focuses on real-time data handling, predictive analytics, and machine learning applications.
+“Skills, knowledge, and confidence for the future.”
+Applying to Edupreme University
+Detail About How To Apply
+Vulputate massa hendrerit fusce odio curabitur. Purus aenean justo commodo ad sem fringilla. Proin ligula fames nam molestie lacus nulla curae donec tincidunt urna. Arcu elit consectetur auctor libero consectetuer mattis nostra vitae duis.
+Magna consequat neque justo sit fusce commodo potenti cras felis sapien taciti. Consectetur netus dictumst proin mollis velit blandit lobortis sapien malesuada. Mauris volutpat commodo a donec congue. Fames porta habitant fusce nisl est. Quam nulla proin mus lacus aptent eros auctor. Lectus lacus faucibus proin eget mus congue pharetra.
+Discover More
+CSE - Data Science Faculty List
+Sr. No.
+Name of the faculty
+Present designation
+Adarsh Kumar
+Vimal
+Assistant
+Professor
+Yash Sharma
+Assistant Professor
+Amit Khandelwal
+Jeetendra Mittal
+Shreyansh Sharad Jain
+Deepak Varshney
+Professor of Practice
+Vipin Kumar

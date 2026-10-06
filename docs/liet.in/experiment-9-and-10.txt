@@ -1,0 +1,163 @@
+experiment 9 and 10 - Lloyd Engineering College
+Source: https://liet.in/experiment-9-and-10
+
+LIET
+Engineering Chemistry Lab Manual
+Institute Vision
+To emerge as an Institute of academic excellence by empowering young minds through problem-solving skills, knowledge & ethical values and transforming them into professionals of global competence.
+Institute Mission - IM: 1
+To create a conducive environment for teaching and learning through continuous engagement with industry for corporate understanding and professionalism.
+IM: 2
+To equip the students with state-of-the-art technological advancement and skills.
+IM: 3
+To focus on holistic development of students through enhanced learning along with moral and ethical value system.
+Significance of Chemistry
+Chemistry plays a crucial role in our daily lives and in solving global challenges. It is the central science that connects physics, biology, and environmental science, enabling progress across multiple fields.
+Health and Medicine:
+Development of life-saving drugs, vaccines, and diagnostic tools.
+Environment:
+Pollution control, water purification, and sustainable energy solutions.
+Agriculture:
+Fertilizers, pesticides, and soil testing for better crop yields.
+Materials:
+Creation of plastics, ceramics, metals, and nanomaterials used in everyday products.
+Food:
+Preservatives, flavorings, and nutritional content analysis for safer, better food.
+Clean Energy:
+Development of batteries, solar panels, and fuel cells for a sustainable future.
+In essence:
+Chemistry helps us understand the world at a molecular level and empowers innovation that benefits society, the economy, and the planet.
+Experiment 9
+Determination of Rate Constant for Hydrolysis of an Ester
+Flow Chart
+Before Reaction
+Prepare methyl acetate + dilute HCl solution.
+Place in water bath at constant temperature.
+Start stopwatch.
+During Reaction
+At t = 0, withdraw 5 mL and titrate with NaOH (get V₀).
+At intervals (10, 20, 30 min), withdraw 5 mL and titrate (get Vt).
+Continue until volume stabilizes (V∞).
+End of Reaction
+Use formula: k = (2.303 / t) × log((V∞ – V₀) / (V∞ – Vt))
+Average values to get rate constant.
+Aim
+To determine the rate constant (k) for the acid-catalyzed hydrolysis of methyl acetate using titration method.
+Requirements
+Methyl acetate (CH₃COOCH₃)
+Hydrochloric acid (HCl)
+Standard NaOH solution
+Phenolphthalein indicator
+Water bath
+Conical flasks, burette, pipette, stopwatch
+Theory:
+The hydrolysis of ester in acidic medium is a pseudo first-order reaction:
+CH₃COOCH₃ + H₂O → CH₃COOH + CH₃OH
+The rate constant k is calculated using the first-order integrated rate law:
+k = (2.303 / t) × log[(V∞ – V₀) / (V∞ – Vt)]
+Where:
+V₀ = Volume of NaOH at time 0
+Vt = Volume of NaOH after time t
+V∞ = Volume at infinite time (reaction completion)
+Procedure:
+Mix equal volumes of methyl acetate and HCl in a flask and place in a constant-temperature water bath.
+At time zero, withdraw 5 mL and titrate with standard NaOH using phenolphthalein (record V₀).
+At regular intervals (e.g., every 10 minutes), withdraw 5 mL samples and titrate with NaOH to get Vt.
+Continue until constant volume is observed (V∞).
+Calculate k using the formula for each time point and take the average.
+Observation Table
+Time (min)
+Volume of NaOH used (Vt) in mL
+log[(V∞ – V₀)/(V∞ – Vt)]
+k (min⁻¹)
+10.5
+14.2
+0.1761
+0.0406
+16.8
+0.3010
+0.0347
+18.4
+0.3979
+0.0306
+Result
+The average rate constant (k) for the hydrolysis of methyl acetate is approximately 0.0353 min⁻¹.
+Sustainability in Determination of Rate Constant of Ester Hydrolysis
+Green Chemistry Principles
+Uses low-toxicity reagents in small amounts, producing minimal chemical waste.
+Low Environmental Impact
+Products like acetic acid and methanol are less hazardous and biodegradable.
+Energy Efficient
+Conducted at room or mildly elevated temperatures using simple lab equipment.
+Supports Chemical Literacy
+Builds foundational knowledge of kinetics, helping future chemists design more sustainable reactions.
+SDG Alignment
+Encourages mindful lab practices under SDG 12 – Responsible Consumption and Production.
+Experiment 10
+Determination of Cell Constant and Conductance of a Solution
+Before Measurement
+Wash conductivity cell thoroughly.
+Fill with 0.01 N KCl solution.
+Stabilize temperature at 25°C.
+During Measurement
+Measure conductance (G₁) of KCl solution.
+Calculate cell constant: G* = κ / G₁.
+Rinse and fill cell with unknown solution.
+Measure conductance (G₂).
+End of Experiment
+Calculate conductivity: κ = G₂ × G*.
+Record and interpret the result.
+To determine the cell constant of a conductivity cell using standard KCl solution, and to find the conductance of an unknown solution.
+Requirements:
+Conductivity bridge or conductivity meter
+Conductivity cell
+Standard KCl solution (0.01 N or 0.1 N)
+Unknown solution (e.g., acid, base, or salt)
+Beakers, wash bottle, distilled water
+The cell constant (G\*) is a factor that relates the measured conductance (G) to the actual conductivity (κ) of the solution:
+G\* = κ / G
+Once the cell constant is known using a standard KCl solution (whose conductivity κ is known), it can be used to determine the conductivity of unknown solutions using:
+κ = G × G\*
+G = 1 / R = Conductance in S (Siemens)
+κ = Specific Conductivity (S·cm⁻¹)
+G\* = Cell constant (cm⁻¹)
+Wash the conductivity cell with distilled water and then with standard KCl solution.
+Fill the conductivity cell with standard KCl solution and measure conductance (G₁).
+Calculate the cell constant: G\* = κ / G₁ (κ for 0.01 N KCl at 25°C = 0.00141 S·cm⁻¹).
+Rinse the cell and fill with the unknown solution.
+Measure conductance (G₂) of the unknown solution.
+Calculate its specific conductivity using: κ = G₂ × G\*
+Solution
+Observed Conductance (G) (S)
+Known/Calculated κ (S·cm⁻¹)
+Cell Constant (G\*)
+Standard KCl (0.01 N)
+0.630
+0.00141
+0.00224 cm⁻¹
+Unknown solution
+0.450
+----
+Calculations
+Cell constant G\* = κ / G = 0.00141 / 0.630 = 0.00224 cm⁻¹
+Conductivity of unknown = G × G\* = 0.450 × 0.00224 = 0.001008 S·cm⁻¹
+The specific conductivity of the unknown solution is 0.001008 S·cm⁻¹.
+Sustainability in Determination of Cell Constant and Conductance
+Minimal Chemical Use
+Requires only dilute solutions and small sample volumes, reducing waste generation.
+Reusable Setup
+Conductivity cells and electrodes can be cleaned and reused multiple times, lowering lab resource consumption.
+Environmentally Safe
+No toxic or hazardous byproducts are formed, making the experiment safe for students and the environment.
+Encourages Analytical Water Testing
+Helps in efficient chemical dosing in water treatment, supporting eco-conscious operations.
+Supports SDGs
+Promotes SDG 6 (Clean Water and Sanitation) and SDG 12 (Responsible Consumption and Production).
+ABOUT US
+See here to know more about our college and us:
+https://liet.in/
+View More Experiments
+Experiment 1 & 2
+Experiment 3 & 4
+Experiment 5 & 6
+Experiment 7 & 8

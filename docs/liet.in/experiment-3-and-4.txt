@@ -1,0 +1,193 @@
+experiment 3 and 4 - Lloyd Engineering College
+Source: https://liet.in/experiment-3-and-4
+
+LIET
+Engineering Chemistry Lab Manual
+Institute Vision
+To emerge as an Institute of academic excellence by empowering young minds through problem-solving skills, knowledge & ethical values and transforming them into professionals of global competence.
+Institute Mission - IM: 1
+To create a conducive environment for teaching and learning through continuous engagement with industry for corporate understanding and professionalism.
+IM: 2
+To equip the students with state-of-the-art technological advancement and skills.
+IM: 3
+To focus on holistic development of students through enhanced learning along with moral and ethical value system.
+Significance of Chemistry
+Chemistry plays a crucial role in our daily lives and in solving global challenges. It is the central science that connects physics, biology, and environmental science, enabling progress across multiple fields.
+Health and Medicine:
+Development of life-saving drugs, vaccines, and diagnostic tools.
+Environment:
+Pollution control, water purification, and sustainable energy solutions.
+Agriculture:
+Fertilizers, pesticides, and soil testing for better crop yields.
+Materials:
+Creation of plastics, ceramics, metals, and nanomaterials used in everyday products.
+Food:
+Preservatives, flavorings, and nutritional content analysis for safer, better food.
+Clean Energy:
+Development of batteries, solar panels, and fuel cells for a sustainable future.
+In essence:
+Chemistry helps us understand the world at a molecular level and empowers innovation that benefits society, the economy, and the planet.
+Experiment 3
+Argenometric Titration
+Indicator Used (Potassium chromate)
+Titration Process
+Flow chart
+10 ml water sample
+N/100 AgNO₃ solution
+Add 2-3 drops of Potassium Chromate indicator
+Before Titration
+Take 10 ml of the water sample in a conical flask.
+Add 2-3 drops of potassium chromate indicator (yellow color).
+This acts as an indicator for the endpoint of chloride titration.
+During Titration
+Titrate with N/100 AgNO₃ solution.
+White precipitate of silver chloride (AgCl) forms initially.
+Continue titration slowly.
+Near the endpoint, a light reddish-brown color appears (due to silver chromate formation).
+Record burette reading (Volume of AgNO₃ used).
+End Of Titration
+Endpoint: permanent light reddish-brown color.
+All chloride ions have reacted.
+Aim
+Determination of chloride content in a given wetter sample wing argenometric titration.
+Requirements
+0.01N AgNO3, k2CrO4-indicator, 10 ml water sample, burette, measuring cylinder, beaker, conical flask.
+Theory:
+Precipitation titrations involves the formation of an insoluble precipitate when the reacting solutions are mixed together for example, when a solution of silver nitrate is added to a solution of sodium chloride, a white precipitate of silver chloride is formed.
+AgNO3+ NaCl -> AgCl+ NaNO3
+Q. Why this method is known as Mohr’s method ?
+Mohr’s Method’s This method determines the chloride ion concentration of a solution by titration with silver nitrate. As the silver nitrate solution is slowly added, a precipitate of silver chloride forms. Ag+ reacts with CI- to give a white precipitate of AgCl and not Ag2CrO4 as the solubility product of sliver chloride is less than that of silver chromate.
+Ag+ CI -> AgCl
+As the endpoint or the equivalence approaches, Ag+ may also react prematurely with CrO4 present in the solution as an indicator to form a red precipitate of Ag2CrO4. This precipitate, however, dissolves on shaking as long as Cl- ions are present in solution.
+2 Ag+ + CrO4- -> Ag2CrO4(red ppt)
+Ag2CrO4+ 2Cl- -> 2AgCl+ CrO42-
+When all the chloride ions have reacted with AgNO3, a slight excess of AgNO₃ now added reacts with potassium chromate to give a red ppt of silver chromate. The reaction between AgNO₃ and NaCl can be quantitatively carried out in a neutral medium in this method of estimation, since silver hydroxide gets precipitated in alkaline medium leading to mistaken results and in acidic medium, Some chromate is converted to dichromate due to which red precipitate will not form.
+This method can be used to determine the chloride ion concentration of water samples from many sources such as sea water, stream water, river water and estuary water.
+Observation Table
+Trial
+Initial Reading (mL)
+Final Reading (mL)
+AgNO3 (V₂ in mL)
+0.0
+5.2
+9.2
+4.2
+9.4
+4.6
+Average
+4.87
+Formula Used
+(Normality of solution)N1= (N2x V2) /10
+Amount of chloride (ppm) = N1 x 35.5 x 1000
+Calculations
+(Normality of solution) N1 = 0.01 x 4.87 / 10
+= 0.00487 M
+Amount of Chloride = 0.00487 x 35.5 x 1000
+= 172.885 ppm
+Result
+Strength of chloride content in water sample was found to be 172.885ppm
+Argentometric Titration and Sustainable Development
+Argentometric titration is a method where silver nitrate (AgNO₃) is used to determine concentrations of halides (like chloride, bromide, iodide) by precipitation. It connects to sustainable development mainly through:
+Aspect
+Interaction with Sustainable Development
+Water Quality Monitoring
+Argentometric titration is commonly used to test chloride levels in drinking water, rivers, and seas. Monitoring water quality supports SDG 6: Clean Water and Sanitation.
+Industrial Wastewater Treatment
+It helps industries check chloride content in waste before discharge, promoting environmentally safe practices under SDG 12: Responsible Consumption and Production.
+Reduction of Harmful Reagents
+Modern argentometric methods aim to use minimal silver nitrate (toxic and expensive), aligning with green chemistry principles that promote sustainability.
+Education and Awareness
+Teaching sustainable laboratory techniques like efficient titration methods supports SDG 4: Quality Education by integrating sustainability into science curricula.
+Resource Efficiency
+Precise methods avoid wastage of silver, an important natural resource, supporting SDG 12 again (efficient resource use).
+In Short:
+Argentometric titration
+supports sustainable development by helping monitor and protect water resources, encouraging greener lab practices, and promoting responsible resource use.
+Experiment 4
+Determination of Viscosity Using Ostwald’s Viscometer
+Fill Viscometer:
+Add 10 ml of distilled water to viscometer flask.
+Water Bath:
+Place viscometer in a constant temperature water bath.
+Measure Time (t₁):
+Use stopwatch to measure flow time of water between two marks.
+Refill with Test Liquid:
+Add 10 ml of test liquid into viscometer.
+Measure Time (t₂):
+Measure the flow time of the test liquid using stopwatch.
+Clean and dry viscometer properly.
+Add 10 ml of distilled water.
+Raise water above upper mark using suction and measure time t₁.
+Clean viscometer and add 10 ml of test liquid.
+Place viscometer in the same water bath.
+Suck liquid above upper mark and note time t₂.
+Repeat for accuracy.
+Use formula
+η₂ / η₁ = (d₂ / d₁) × (t₂ / t₁)
+Where:
+η = Viscosity
+d = Density
+t = Flow Time
+To determine the viscosity of a given liquid sample solution using Ostwald’s viscometer.
+Requirements:
+Ostwald’s viscometer (glass capillary viscometer)
+Water
+Liquid sample
+Stop-watch
+The Ostwald’s viscometer method is based on Poiseuille’s equation:
+η = (πr⁴tP) / (8Vl)
+η = Viscosity of the liquid
+V = Volume of the liquid
+t = Flowing time (in seconds)
+r = Radius of the capillary tube
+l = Length of liquid column
+P = Hydrostatic pressure of the liquid
+A simple comparative method is used where the viscosity of an unknown liquid is calculated relative to a known liquid (usually water):
+ηr = ηsolution / ηsolvent = (ρsolution × tsolution) / (ρsolvent × tsolvent)
+For very dilute solutions, ρsolution ≈ ρsolvent, so:
+ηr = tsolution / tsolvent
+Procedure:
+Rinse the viscometer with water.
+Add about 20 mL of water into the wide arm of the viscometer.
+Blow through the wide arm until the water rises above the mark.
+Ensure there are no air bubbles present.
+Allow the liquid to fall through the capillary, start the stop-watch, and note the time taken for water to flow between the two marks.
+Repeat the same steps with the given liquid sample.
+Sr. No.
+Flow Time (s) - Water
+Flow Time (s) - Given Solution
+Mean (Average Time)
+Weight of empty bottle = 5.4 g
+Weight of bottle + water = 24.4 g → Weight of water = 19.0 g
+Weight of bottle + liquid = 25.5 g → Weight of liquid = 20.1 g
+Density of liquid = (Weight of liquid × ρ
+water
+) / Weight of water
+= 1 g/cm³, η
+= 0.01 Poise
+liquid
+= (ρ
+× t
+× η
+) / (ρ
+The viscosity of the given liquid solution = _____ Poise
+What is Viscosity?
+Viscosity is a measure of a fluid’s resistance to flow. It plays a key role in fluid dynamics, material processing, and product design.
+How It Supports Sustainability:
+Eco-Friendly Material Design
+Supports the use of biodegradable fluids to replace petrochemicals.
+Energy Efficiency
+Optimized viscosity reduces energy usage during processing and transport.
+Water Treatment
+Helps manage sludge flow, reducing water and chemical usage.
+Process Optimization
+Fine-tunes industrial operations for reduced waste and better efficiency.
+Safe Transport
+Prevents leaks and accidents through proper fluid handling.
+Conclusion
+Viscosity measurement contributes to sustainability by enhancing efficiency, reducing waste, and enabling cleaner technologies.
+View More Experiments
+Experiment 1 & 2
+Experiment 5 & 6
+Experiment 7 & 8
+Experiment 9 & 10

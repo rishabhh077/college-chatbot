@@ -1,0 +1,145 @@
+Career Options After B. Tech Electronics and Communication Engineering
+Source: https://liet.in/blog/career-after-electronics-communication-engineering.html
+
+Career Options After B. Tech Electronics and Communication Engineering
+Home
+Career
+Options After B. Tech Electronics and Communication Engineering
+25,June
+2021
+Introduction
+Humankind as a whole thrives on communication. Right from the everyday conversations between
+people of similar interests to those that create a mass influence, like radio, television and
+computers- communication forms an integral part in developing modern society. Therefore,
+electronics and communication engineers
+will always stand as a backbone
+to the communication systems as the necessity for better and efficient modes of communication
+hikes. The field, hence, requires bright and intelligent minds with a passion for innovation and
+invention to birth and develop state-of-the-art technologies that are a step ahead of the modern
+world.
+Why study Electronics and Communication Engineering?
+1. Compelling Necessity
+We live in an era of technological advancement. Electronics have simplified a wide range of
+sectors including educational, industrial, medical, defence and research. Today, with circuits
+and systems present everywhere from the mobile phones in our hands to the satellites we send up
+in space, the demand for electronics engineers is an urgent and constant one. Without them, we
+would not only fail in innovating new and better automation but will also not be able to improve
+the existing one.
+2. Futuristic Field
+The past century has seen a high-curve growth in the field of computers and engineering. With our
+journey from 1G to 4G, we have seen exponential growth in analogue, digital, radio and telecom
+electronics. Machines have blended with the human world and made every single task simpler and
+time-saving. The future, as well, holds tremendous potential in the IT sector if we continue to
+follow this curve, as we aspire to. The developments in fields ranging from nanotechnology and
+robotics to high speed automated processors in embedded systems and image processors demand
+knowledgeable and skilled electronics engineers to monitor and lead them.
+3. Diversified Specializations
+Electronics and Communication engineering
+finds applications in numerous
+sectors to flourish not only an individual’s professional dynamic but also help in taking bigger
+leaps for mankind. Whether you work as a scientist, design and development engineer, desktop
+support engineer, system control engineer, technology analyst, industrial manufacturer,
+technical sales and marketing person or even a technical writer- with electronics and
+communication engineering you can be sure of making your place in the betterment of the society.
+Choices of Paths after Completing Electronics and Communication Engineering
+1. Higher education
+After the completion of their Bachelors in Technology in Electronics and Communication
+Engineering, students can opt for a Masters program in a specialized field of their choice. You
+can go for a Masters in Science in fields like Telecommunication Engineering, Microelectronics &
+VLSI Design, Electronics Design and Technology, Wireless Communication, Signal Processing,
+Robotics, Embedded Systems or VLSI System Design. If you aspire for managerial roles, you can go
+for a Masters in Business Administration.
+2. Research and development
+Electronics engineers can follow the M. Tech- Ph. D- Research path innovation and development is
+what interests them. Organizations like ISRO, DRDO, SAIL and BHEL lead in the research field and
+are ideal workplaces to engineer new and better technologies for the enhancement of the
+communication and signal systems.
+3. Core Jobs
+Students can opt for on and off-campus placements with reputed companies like Semiconductors,
+Alstom Corporate, Bharat Heavy Electricals, Havells, Crompton Greaves, Neolex Cables, HBM Power
+Systems, Exide Industries, Siemens, BSNL, Sony Ericsson, Reliance, Nokia and many more. The
+positions they can apply for include Design Engineer, ASIC Engineer trainee, Jr. Embedded
+Engineer or Network Support Engineer. The fields they will work in are circuit design, wireless
+communications, robotics, electronics, VLSI, Nanotechnology, Embedded Systems, Digital
+Electronics, Optical Communications, and Signal among others.
+4. Non-Core Jobs
+With sufficient knowledge of computers and coding, electronics and communication engineers can
+find jobs as assistant software engineers, junior software engineers, programmers, net
+engineers, quality analysts and similar positions. The top companies that recruit include Wipro,
+Tata Consultancy Services, Accenture, Infosys, HCL and Genpact. These companies provide a good
+pay scale and work environment.
+5. Government jobs
+Public service companies recruit electronics and communication engineers based on written
+examinations, their GPAs and skills. The common job profile is that of a technician and the
+organizations that hire include
+BSNL,
+MTNL, ISRO, DRO, and ONGC among others. Electronics engineers can
+also find jobs in financial services such as banks as technicians or junior engineers.
+6. Start-Up
+An electronics engineer with a buzz for business and management can go for a start-up in the ECE
+field, which holds less competition as compared to other fields due to a lack in the number of
+start-ups. With persistence and planning, an electronics engineer can build a successful
+start-up in any sub-field of electronics and communication engineering including VLSI, Robotics,
+Nanotechnology, Optical Communication, Embedded Systems, Digital Electronics and many more.
+Job Profiles and Job Descriptions of Electronics and Communication Engineers
+S. No.
+Job Profiles
+Job Description
+Design Engineer
+To work on the research and design of the new products for a particular company- draft
+and test prototypes, and ensure that the manufacturing process happens smoothly.
+ASIC Engineer
+To find and understand system complexities and devise solutions for the same thereby
+enhancing the system performance.
+Embedded Engineer
+To design and implement the software that is used by embedded devices and systems. To
+actively participate in every step of the software development life cycle and ensure
+that it happens smoothly and gets completed successfully.
+Network Support Engineer
+To ensure daily that the communication systems that organizations and individuals work
+on run smoothly and without any bugs, on both external and internal level.
+Software Engineer
+To identify the need for new software programs that may ease the work of a particular
+sector (business, gaming, etc.) and then design and develop them, while also working to
+improve the existing ones in terms of various factors like UI, speed and enabling of new
+features. Regularly check if the hardware and software of the system work properly.
+Quality Analyst
+To actively participate in and ensure that the development and planning of various test
+and process plans as well as test scripts for a project are happening smoothly.
+Technician
+To take part in the first few phases of the software development life cycle including
+prototyping, identifying potential threats and eliminating them.
+Chief Technical Officer
+To overlook the technical sector of an organization on a managerial level and work
+towards lining them to the overall growth targets of the company.
+ECE Engineering Consultant
+To act as a bridge between the client and the working team to make sure that not only
+are the client’s needs being met but the technical solutions provided are by the
+industry regulations.
+10.
+Data Analyst
+To analyze raw data from different sectors of the company and derive meaningful results
+(as graphs, charts, etc.) from it to help in the decision-making for the company or
+client and ensure maximum profitable solutions.
+Job Profiles And Average Annual Salary Of Electronics and Communication Engineers In 2021
+S.No.
+Average annual Salary (in Rs.)
+4 - 5 lakh
+20 lakh
+16 lakh
+3-4 lakh
+4-12 lakh
+4.5 lakh
+2-2.5 lakh
+Chief Technical Officers
+18 lakh
+5-8 lakh
+Conclusion
+With the data compiled above, we can sufficiently deduce that a career as an Electronics and
+Communication engineer is not only professionally rewarding but aids in the complete development
+of society as well. ECE engineers, with their in-depth knowledge and core skills, have a wide
+array of career options to pursue, with new job opportunities opening up every minute. As
+brilliantly smart individuals and quick learners, electronics and communication engineers hold
+the power to enhance, alter and even completely redesign the technological face of today’s
+world, and that of tomorrow.
+© 2023 lloyd INSTITUTE OF ENGINEERING & TECHNOLOGY. All Rights Reserved

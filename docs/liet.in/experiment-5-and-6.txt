@@ -1,0 +1,178 @@
+experiment 5 and 6 - Lloyd Engineering College
+Source: https://liet.in/experiment-5-and-6
+
+LIET
+Engineering Chemistry Lab Manual
+Institute Vision
+To emerge as an Institute of academic excellence by empowering young minds through problem-solving skills, knowledge & ethical values and transforming them into professionals of global competence.
+Institute Mission - IM: 1
+To create a conducive environment for teaching and learning through continuous engagement with industry for corporate understanding and professionalism.
+IM: 2
+To equip the students with state-of-the-art technological advancement and skills.
+IM: 3
+To focus on holistic development of students through enhanced learning along with moral and ethical value system.
+Significance of Chemistry
+Chemistry plays a crucial role in our daily lives and in solving global challenges. It is the central science that connects physics, biology, and environmental science, enabling progress across multiple fields.
+Health and Medicine:
+Development of life-saving drugs, vaccines, and diagnostic tools.
+Environment:
+Pollution control, water purification, and sustainable energy solutions.
+Agriculture:
+Fertilizers, pesticides, and soil testing for better crop yields.
+Materials:
+Creation of plastics, ceramics, metals, and nanomaterials used in everyday products.
+Food:
+Preservatives, flavorings, and nutritional content analysis for safer, better food.
+Clean Energy:
+Development of batteries, solar panels, and fuel cells for a sustainable future.
+In essence:
+Chemistry helps us understand the world at a molecular level and empowers innovation that benefits society, the economy, and the planet.
+Experiment 5
+Determination of Surface Tension using Drop Number Method
+Flow chart
+Fill Pipette:
+Fill pipette with distilled water using a beaker.
+Count Water Drops:
+Count the number of drops (n₁) from pipette tip.
+Refill with Test Liquid:
+Replace water with test liquid in the same pipette.
+Count Test Liquid Drops:
+Count the number of drops (n₂) from test liquid.
+Before Titration
+Clean and dry the dropper/pipette.
+Fill with distilled water.
+Set up the drop counting apparatus.
+Maintain a constant temperature environment.
+During Titration
+Count number of drops (n₁) for a fixed volume (e.g., 10 ml) of water.
+Replace water with test liquid.
+Count number of drops (n₂) for the same volume.
+Repeat the experiment for accuracy.
+End of Experiment:
+Use formula:
+γ₂ = γ₁ × (n₁ / n₂) × (d₂ / d₁)
+Where:
+γ = Surface tension
+d = Density
+n = Number of drops counted
+Result:
+Surface tension of the given liquid is calculated using the above formula.
+Result
+Aim
+To determine the surface tension of a given liquid by the drop number method.
+Requirements
+Stalagmometer
+Water
+Liquid sample
+Beaker
+Theory:
+Surface tension is the force per unit length acting along the surface of a liquid, measured in dynes/cm (CGS) or N/m (SI). When a liquid is allowed to drip slowly from a stalagmometer, the number of drops formed is inversely proportional to its surface tension. The surface tension of the given liquid is calculated using the formula:
+γ₂ = (n₁ × ρ₁ × γ₁) / (n₂ × ρ₂)
+γ₁ = Surface tension of water
+γ₂ = Surface tension of the liquid
+n₁ = Number of drops of water
+n₂ = Number of drops of liquid
+ρ₁ = Density of water
+ρ₂ = Density of the liquid
+Procedure:
+Clean the stalagmometer with chromic acid.
+Immerse its lower end in distilled water and suck up water to mark A.
+Let the water flow out and count drops between marks A and B.
+Repeat to obtain three readings.
+Clean and dry the stalagmometer, then fill it with the test liquid.
+Let it flow out and count the drops.
+Weigh empty specific gravity bottle (W₁).
+Fill with water, weigh (W₂).
+Empty, dry, fill with test liquid, and weigh again (W₃).
+Observation Table
+Trial
+No. of Drops (Water)
+No. of Drops (Liquid)
+Mean
+Calculations
+W₁ (Empty bottle) = 5.5 g
+W₂ (Bottle + Water) = 23.3 g → Weight of water = 17.8 g
+W₃ (Bottle + Liquid) = 24.4 g → Weight of liquid = 18.9 g
+Relative density = (W₃ – W₁) / (W₂ – W₁) = 18.9 / 17.8
+water
+= 72.14 dyne/cm
+liquid
+= (18.9 × 56 × 72.14) / (17.8 × 65) =
+65.9922 dyne/cm
+The surface tension of the given liquid solution = 65.9922 dyne/cm
+What is Surface Tension?
+Surface tension is the cohesive force between liquid molecules at the surface. It’s responsible for phenomena like water droplets forming beads and insects walking on water.
+Sustainability Connections:
+Water Purity Testing
+Surface tension changes indicate presence of pollutants, helping monitor clean water initiatives.
+Eco-Detergents
+Aids development of biodegradable soaps and surfactants with minimal environmental harm.
+Reduced Chemical Use
+Understanding surface behavior helps optimize processes like painting and coating, lowering waste.
+Green Nanotechnology
+Surface tension helps create sustainable nano-solutions for medicine and agriculture.
+Oil Spill Cleanup
+Used in the formulation of eco-friendly dispersants and cleanup agents.
+Conclusion
+The surface tension experiment supports sustainability by enabling cleaner industrial processes, improving environmental monitoring, and fostering eco-innovation.
+Experiment 6
+Determination of PH by ph metric titration
+Flow Chart
+Calibrate pH meter using standard buffer solutions (pH 4, 7, 9).
+Take 50 mL of the acid/base solution in a beaker.
+Insert the pH electrode into the solution.
+Set up burette with titrant (e.g., NaOH).
+Add titrant slowly in 1 mL increments.
+Stir and record pH after each addition.
+Observe sharp pH change near equivalence point.
+Plot pH vs volume added.
+End Of Titration
+Identify equivalence point from the graph.
+Determine nature of acid/base from pH data.
+To determine the pH of a given solution and identify the equivalence point using pH-metric titration.
+Requirements:
+pH meter
+Beaker and burette
+Magnetic stirrer (optional)
+Standard NaOH solution (or acid depending on titration type)
+Unknown acidic or basic solution
+Distilled water
+pH-metric titration is a method of determining the endpoint of a titration using a pH meter. As the titrant is added, the pH of the solution changes. The point at which there is a sudden change in pH corresponds to the equivalence point.
+The pH is calculated using:
+pH = –log[H⁺]
+By plotting a graph of pH vs. volume of titrant added, the equivalence point can be determined from the sharp change in the pH curve.
+Calibrate the pH meter using standard buffer solutions.
+Insert the electrode of the pH meter into the solution.
+Record the initial pH of the solution.
+Add titrant (e.g., NaOH) slowly from a burette in 1 mL increments.
+After each addition, stir the solution gently and record the new pH.
+Continue the process until you observe a sharp change in pH readings.
+Volume of NaOH added (mL)
+3.2
+3.8
+4.5
+5.4
+6.2
+8.3
+10.2
+11.5
+Graph
+Plot a graph of pH (Y-axis) vs. volume of NaOH added (X-axis). The equivalence point is where the curve rises steeply.
+The pH of the initial solution is 3.2 (acidic).
+The equivalence point was observed at approximately 5.5 mL of NaOH, where the pH sharply increased.
+Sustainability in Determination of pH by pH-Metric Titration
+Minimizes Chemical Use
+Reduces need for synthetic indicators, lowering chemical waste output.
+Enhances Accuracy
+Digital pH meters provide precise endpoints, minimizing repeat testing and saving reagents.
+Eco-Friendly Data Logging
+Electronic data storage reduces paper use in lab records.
+Safe Waste Disposal
+Low-volume, clear solutions are easier to neutralize and dispose of safely.
+Supports Sustainable Development Goals:
+Contributes to SDG 6 (Clean Water) and SDG 12 (Responsible Consumption and Production).
+View More Experiments
+Experiment 1 & 2
+Experiment 3 & 4
+Experiment 7 & 8
+Experiment 9 & 10
