@@ -20,7 +20,9 @@ st.markdown(
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
     html, body, [class*="css"], .stApp {font-family: 'Inter', system-ui, sans-serif;}
-    #MainMenu, footer, header[data-testid="stHeader"] {visibility: hidden;}
+    #MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"] {visibility: hidden;}
+    header[data-testid="stHeader"] {background: transparent;}
+    [data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"], [data-testid="stSidebarCollapseButton"] {visibility: visible !important; color: #E6EAF2;}
     html, body {background: #04060B;}
     .stApp {background: transparent !important;}
     .block-container {padding-top: 1.4rem; max-width: 860px;}
