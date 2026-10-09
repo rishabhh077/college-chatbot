@@ -6,7 +6,7 @@ Answers student questions from your college's own documents using Retrieval-Augm
 
 ## Setup
 ```bash
-python3 -m venv .venv && source .venv/bin/actate
+python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env      # add your free key from https://aistudio.google.com/apikey
 ```
