@@ -1,6 +1,7 @@
 """RAG pipeline: load docs -> chunk -> embed (local) -> retrieve -> answer."""
 import json
 import os
+import re
 import time
 from collections.abc import Iterator
 from functools import lru_cache
@@ -23,7 +24,10 @@ GEN_MODELS = os.getenv("GEN_MODEL", "gemini-3.5-flash-lite,gemini-3.1-flash-lite
 EMBED_MODEL = os.getenv("EMBED_MODEL", "BAAI/bge-small-en-v1.5")
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
-TOP_K = 4
+TOP_K = 6
+POOL = 40  # candidates taken from each of vector search and keyword search before fusion
+# Scraped pages that are duplicates or placeholder text and only add noise to retrieval.
+EXCLUDE_SOURCES = {"test.txt", "message-from-senior-director45435625325342fdsadxcsadxs.txt"}
 
 SYSTEM_PROMPT = """You are the official AI assistant of LIET (Lloyd Institute of Engineering & Technology), Greater Noida.
 
@@ -32,7 +36,23 @@ How to answer:
 2. The excerpts include blog articles that use generic phrases like "top private colleges" or mention other institutions. Treat those as being about LIET, and never present other colleges' details as LIET's.
 3. If the excerpts do not contain the answer and the question is about LIET specifics (fees, dates, names, phone numbers, policies), do not guess. Say you don't have that detail and give LIET's contact: admissions@liet.in, +91 9821582662.
 4. If the question is general (study advice, career, technology, entrance exams, or anything not specific to LIET), answer helpfully from your own knowledge, starting with "Not from LIET's website:". Where it fits, connect the answer back to LIET's relevant programs.
-5. Be concise and friendly. Do not mention file names, sources, page numbers or the word "context/excerpts" in your answer; the app shows sources separately."""
+5. Be concise and friendly. Do not mention file names, sources, page numbers or the word "context/excerpts" in your answer; the app shows sources separately.
+
+Hard questions:
+9. For multi-part questions, answer each part the excerpts cover and say plainly which part the website does not state. Never fill a gap with guessed numbers, percentages, company names, rules or dates.
+10. If the excerpts give different figures for the same thing (fees, placements, eligibility), show each figure with the session/year it belongs to and tell the student to confirm the current one with admissions. Do not claim one page is more official unless a page says so.
+11. For cost or comparison questions, use only published figures, show the arithmetic, list the charges the website does not publish, and mark the total as an estimate to be confirmed.
+12. Rules set by the affiliating university (AKTU), AICTE or the government (exam rules, degree award, attendance norms, scholarships) are not LIET's own. Say so and point to the official document or the admissions contact.
+13. Questions about what the website "hides", contradicts or advertises vs. regulations cannot be answered from it. Say that, then list what a student should verify and with whom.
+
+Language (very important):
+6. Detect the language of the user's latest question and reply in the same one:
+   - English question -> English answer.
+   - Hindi written in Devanagari (e.g. "फीस कितनी है?") -> Hindi in Devanagari, in simple everyday words.
+   - Hinglish, i.e. Hindi written in Roman letters (e.g. "hostel ki fees kitni hai?") -> Hinglish in Roman letters, the way a friendly Indian student would write it. Do not switch to Devanagari.
+   If the user explicitly asks for a language, use that one.
+7. The excerpts are in English. Translate facts into the reply language, but keep names, course names (B.Tech, MBA), numbers, amounts (Rs / INR), emails and phone numbers exactly as they are.
+8. Translate the "Not from LIET's website:" prefix and the "I don't have that detail" message into the reply language too."""
 
 
 @lru_cache(maxsize=1)
@@ -102,12 +122,105 @@ def _load_index(mtime: float) -> tuple[np.ndarray, list[dict]]:
     )
 
 
+_DEVANAGARI = re.compile(r"[\u0900-\u097F]")
+# Common Roman-script Hindi words; a question containing any of them is treated as Hinglish.
+_HINGLISH = set(
+    """kya kaise kaun kab kahan kahaan kitna kitni kitne kyun kyu kaisa hai hain   hoga hogi honge tha thi
+    mujhe mujhko mera meri mere hume humein hamara hamari aap aapka aapki tum tumhara kaise kaisa batao
+    bataiye bataye bata batana chahiye chahta chahti karna karni karein kare karte   sakta sakti sakte
+    milega milegi milta milti lena lene dena dene ka ki ke ko se mein     pe aur ya nahi nahin haan
+      bhi toh     liye   wala wali wale abhi kuch koi   jaldi pehle baad lagega lagti lagta
+    padhai padhna""".split()
+)
+
+
+def _needs_rewrite(question: str) -> bool:
+    """True when the question is Hindi/Hinglish, which the English-only embedder cannot match well."""
+    if _DEVANAGARI.search(question):
+        return True
+    return any(w in _HINGLISH for w in re.findall(r"[a-z]+", question.lower()))
+
+
+def _to_english(question: str, history: list[dict] | None) -> str:
+    """Rewrite a Hindi/Hinglish question as a standalone English search query. Falls back to the original."""
+    convo = "".join(f"{m['role'].capitalize()}: {m['content']}\n" for m in (history or [])[-2:])
+    prompt = (
+        "Rewrite the user's latest question as one standalone English search query for a college "
+        "website (LIET, Greater Noida). The question may be Hindi (Devanagari) or Hinglish (Hindi in "
+        "Roman letters). Resolve pronouns using the conversation. Output only the query.\n\n"
+        f"Conversation:\n{convo}\nQuestion: {question}"
+    )
+    config = types.GenerateContentConfig(temperature=0)
+    for model in GEN_MODELS:
+        if _dead_until.get(model, 0) > time.time():
+            continue
+        try:
+            text = (_client().models.generate_content(model=model, contents=prompt, config=config).text or "").strip()
+            return text or question
+        except (genai.errors.ServerError, genai.errors.ClientError) as e:
+            _dead_until[model] = time.time() + (3600 if e.code == 429 else 30)
+    return question
+
+
+_STOP = set("a an the of in on at to for is are was were be been do does did can could i my me we you your it its and or if "
+            "what which who whom how when where why with by from that this as any there than then so not no".split())
+
+
+def _tokens(text: str) -> list[str]:
+    return [t for t in re.findall(r"[a-z0-9]+", text.lower()) if t not in _STOP]
+
+
+@lru_cache(maxsize=1)
+def _bm25_index(mtime: float) -> tuple[dict[str, list[tuple[int, int]]], np.ndarray, float]:
+    """Inverted index {term: [(chunk_id, tf)]}, chunk lengths and their mean, for BM25 keyword search."""
+    _, chunks = _load_index(mtime)
+    postings: dict[str, list[tuple[int, int]]] = {}
+    lengths = np.zeros(len(chunks), dtype=np.float32)
+    for i, c in enumerate(chunks):
+        toks = _tokens(c["text"])
+        lengths[i] = len(toks)
+        counts: dict[str, int] = {}
+        for t in toks:
+            counts[t] = counts.get(t, 0) + 1
+        for t, n in counts.items():
+            postings.setdefault(t, []).append((i, n))
+    return postings, lengths, float(lengths.mean() or 1)
+
+
+def _bm25(question: str, mtime: float, n_docs: int, k1: float = 1.5, b: float = 0.75) -> np.ndarray:
+    postings, lengths, avg = _bm25_index(mtime)
+    scores = np.zeros(n_docs, dtype=np.float32)
+    for term in set(_tokens(question)):
+        plist = postings.get(term)
+        if not plist:
+            continue
+        idf = np.log(1 + (n_docs - len(plist) + 0.5) / (len(plist) + 0.5))
+        for i, tf in plist:
+            scores[i] += idf * tf * (k1 + 1) / (tf + k1 * (1 - b + b * lengths[i] / avg))
+    return scores
+
+
 def retrieve(question: str, k: int = TOP_K) -> list[dict]:
-    vectors, chunks = _load_index((INDEX_DIR / "vectors.npy").stat().st_mtime)
-    q = _embed([question], is_query=True)[0]
-    scores = vectors @ q
-    top = np.argsort(scores)[::-1][:k]
-    return [{**chunks[i], "score": float(scores[i])} for i in top]
+    """Hybrid search: vector similarity plus BM25 keywords, merged with reciprocal rank fusion."""
+    mtime = (INDEX_DIR / "vectors.npy").stat().st_mtime
+    vectors, chunks = _load_index(mtime)
+    dense = vectors @ _embed([question], is_query=True)[0]
+    sparse = _bm25(question, mtime, len(chunks))
+    fused: dict[int, float] = {}
+    for scores in (dense, sparse):
+        for rank, i in enumerate(np.argsort(scores)[::-1][:POOL]):
+            if scores[i] > 0:
+                fused[int(i)] = fused.get(int(i), 0.0) + 1 / (60 + rank)
+    out, seen = [], set()
+    for i in sorted(fused, key=fused.get, reverse=True):
+        c = chunks[i]
+        if c["source"] in EXCLUDE_SOURCES or c["text"] in seen:
+            continue
+        seen.add(c["text"])
+        out.append({**c, "score": float(dense[i])})
+        if len(out) == k:
+            break
+    return out
 
 
 _dead_until: dict[str, float] = {}  # model -> time before which it is skipped (quota hit)
@@ -153,7 +266,8 @@ def answer_stream(
                 time.sleep(0.012)  # keeps the streaming feel without any API call
         return replay()
 
-    sources = retrieve(question)
+    search_query = _to_english(question, history) if _needs_rewrite(question) else question
+    sources = retrieve(search_query)
     context = "\n\n".join(s["text"] for s in sources)
     convo = "".join(f"{m['role'].capitalize()}: {m['content']}\n" for m in (history or [])[-4:])
     length = (
