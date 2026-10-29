@@ -1,4 +1,4 @@
-"""Offline helpers (no API needed): language detection, small talk, Hindi/Hinglish keyword expansion
+"""Offline fallback helpers, used only when the language model cannot be reached (the normal path is LLM-driven): language detection, small talk, Hindi/Hinglish keyword expansion
 and an extractive fallback answer, so the bot still replies helpfully when the Gemini API is unavailable."""
 import re
 
@@ -13,6 +13,7 @@ _HINGLISH = set(
     milega milegi milta milti lena lene dena dene ka ki ke ko se mein pe aur nahi nahin haan
     bhi toh liye wala wali wale abhi kuch koi jaldi pehle baad lagega lagti lagta
     padhai padhna naukri dakhila daakhila shulk sampark pata kaha kahaa kidhar kaisi ho hoon hu main
+    nhi nai ni rha rhi rhe h muje mjhe kyaa kia chaiye smjha smjhao smjh krdo kro krna btao btana yrr yar kru karu bhaiya scene hora hua
     namaste namaskar shukriya dhanyavad dhanyawad alvida tata madad naam mai tera teri tumhe aapko dikhao samjhao btao bta bataao yaar bhai dost""".split()
 )
 
@@ -38,7 +39,7 @@ _SMALLTALK = [
                  r"gm|नमस्ते|नमस्कार|हेलो|हैलो|हाय|हलो|प्रणाम|सुप्रभात)( (there|ji|sir|mam|madam|bot|liet|assistant|bhai|dost|friend))?"),
     ("howareyou", r"(how are you|how r u|how are u|hows it going|wassup|whats up|sup|kaise ho|kaisi ho|kaise hain|kya haal( hai)?|"
                   r"kya hal( hai)?|kya chal raha hai|aap kaise hain|aap kaise ho|tum kaise ho|आप कैसे हैं|कैसे हो|क्या हाल है|क्या हाल)( (bhai|yaar|ji))?"),
-    ("thanks", r"(thanks|thank you|thank u|thanku|thx|ty|many thanks|thanks a lot|shukriya|shukriyaa|dhanyavad|dhanyawad|dhanyvaad|"
+    ("thanks", r"(thanks|thanx|thnx|thnks|tysm|thank you|thank u|thanku|thx|ty|many thanks|thanks a lot|shukriya|shukriyaa|dhanyavad|dhanyawad|dhanyvaad|"
                r"bahut shukriya|bahut dhanyavad|thanks bhai|धन्यवाद|शुक्रिया|थैंक्स|थैंक यू|बहुत धन्यवाद)( (a lot|so much|bhai|ji|sir))?"),
     ("bye", r"(bye|bye bye|goodbye|good bye|see you|see ya|tata|alvida|phir milenge|chalo bye|ok bye|good night|gn|बाय|अलविदा|फिर मिलेंगे|शुभ रात्रि)"),
     ("ok", r"(ok|okay|k|kk|cool|great|nice|fine|theek hai|thik hai|achha|accha|acha|badhiya|ठीक है|अच्छा|बढ़िया)( (hai|thanks|bhai))?"),
@@ -90,7 +91,7 @@ _REPLIES = {
 
 def smalltalk(question: str) -> str | None:
     """Instant reply for greetings, thanks, 'who are you', etc. None when it is a real question."""
-    norm = _norm(question)
+    norm = re.sub(r"^(bhai|yaar|yar|yrr|bro|arey|are|oye|hey|ok|achha|acha) (?=\S)", "", _norm(question))
     if not norm or len(norm.split()) > 6:
         return None
     for name, pattern in _SMALLTALK:

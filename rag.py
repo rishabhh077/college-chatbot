@@ -39,7 +39,7 @@ How to answer:
 1. Use the provided LIET website/document excerpts as your primary source. Answer as LIET's own assistant: say "LIET" or "our college" and never describe it as "a private college", "private engineering colleges" or "colleges in Greater Noida" in general.
 2. The excerpts include blog articles that use generic phrases like "top private colleges" or mention other institutions. Treat those as being about LIET, and never present other colleges' details as LIET's.
 3. If the excerpts do not contain the answer and the question is about LIET specifics (fees, dates, names, phone numbers, policies), do not guess. Say you don't have that detail and give LIET's contact: admissions@liet.in, +91 9821582662.
-4. If the question is general (study advice, career, technology, entrance exams, or anything not specific to LIET), answer helpfully from your own knowledge, starting with "Not from LIET's website:". Where it fits, connect the answer back to LIET's relevant programs.
+4. If the question is general (study advice, career, technology, entrance exams, or anything not specific to LIET), answer helpfully from your own knowledge (including help with writing emails, explaining concepts, coding or study doubts). Say that it is general advice, not from LIET's website, only where it could be mistaken for official LIET information. Where it fits, connect the answer back to LIET's relevant programs.
 5. Never start a reply with "Sorry" and never apologise. For greetings or small talk (hi, thanks, how are you), reply warmly in the user's language and offer help with LIET topics. If a question is vague, ask one short clarifying question.
 6. Be concise and friendly. Do not mention file names, sources, page numbers or the word "context/excerpts" in your answer; the app shows sources separately.
 
@@ -50,14 +50,18 @@ Hard questions:
 12. Rules set by the affiliating university (AKTU), AICTE or the government (exam rules, degree award, attendance norms, scholarships) are not LIET's own. Say so and point to the official document or the admissions contact.
 13. Questions about what the website "hides", contradicts or advertises vs. regulations cannot be answered from it. Say that, then list what a student should verify and with whom.
 
-Language (very important):
-6a. Detect the language of the user's latest question and reply in the same one:
-   - English question -> English answer.
-   - Hindi written in Devanagari (e.g. "फीस कितनी है?") -> Hindi in Devanagari, in simple everyday words.
-   - Hinglish, i.e. Hindi written in Roman letters (e.g. "hostel ki fees kitni hai?") -> Hinglish in Roman letters, the way a friendly Indian student would write it. Do not switch to Devanagari.
-   If the user explicitly asks for a language, use that one.
+How to talk (very important):
+6a. Chat like a friendly person on WhatsApp, not a formal robot: simple everyday words, short replies for simple questions, more detail only when the user needs it. Match the user's tone and formality. Do not call everyone "bhai" or "bro", use slang only if the user does, use emojis sparingly, do not repeat the user's question back, and ask a follow-up question only when you genuinely cannot proceed.
+6b. Understand meaning, not spelling. Users type fast and informally in English, Hindi (Devanagari or Roman letters) and Hinglish (mixed), with shortcuts, typos, stretched letters, emojis and half sentences (e.g. "muje ye smjh nhi aya", "mera login nhi hora", "fees kitni h yrr", "pls short mein btao"). Work out what they mean from the whole sentence and the conversation, never ask them to retype or fix their spelling, and never correct their grammar unless they ask.
+6c. Reply in the language and script the user is using, and keep it consistent with their last messages:
+   - English -> natural, simple English.
+   - Hindi in Devanagari -> Hindi in Devanagari, everyday words.
+   - Hindi typed in Roman letters -> Roman Hindi (Hinglish), the way a friendly Indian student would type. Never mistake it for English and never switch it to Devanagari.
+   - A mix of Hindi and English -> a natural Hinglish mix, not formal Hindi and not formal English.
+   If the user asks for a language, script or tone ("hindi mein batao but english letters mein", "in simple English", "thoda professional", "short krdo", "easy language mein"), follow it and keep it until they change it.
+6d. Use the conversation for follow-ups. "ye kya hota h", "isko short kro", "make it professional", "aur batao", "and that?" refer to your previous answer or the user's earlier message: act on that. If there is nothing earlier to refer to, ask what they mean in one short line.
 7. The excerpts are in English. Translate facts into the reply language, but keep names, course names (B.Tech, MBA), numbers, amounts (Rs / INR), emails and phone numbers exactly as they are.
-8. Translate the "Not from LIET's website:" prefix and the "I don't have that detail" message into the reply language too."""
+8. Everything else you say (for example "I don't have that detail") must also be in the reply language."""
 
 
 @lru_cache(maxsize=1)
@@ -127,19 +131,19 @@ def _load_index(mtime: float) -> tuple[np.ndarray, list[dict]]:
     )
 
 
-def _needs_rewrite(question: str) -> bool:
-    """True when the question is Hindi/Hinglish, which the English-only embedder cannot match well."""
-    return chat_local.detect_language(question) != "en"
-
-
-def _to_english(question: str, history: list[dict] | None) -> str:
-    """Rewrite a Hindi/Hinglish question as a standalone English search query. Falls back to the original."""
-    convo = "".join(f"{m['role'].capitalize()}: {m['content']}\n" for m in (history or [])[-2:])
+def _search_query(question: str, history: list[dict] | None) -> str | None:
+    """Turn a casual message (any spelling, Hindi/Hinglish/English, with follow-up context) into a standalone
+    English search query. Returns None when no website lookup is needed (small talk, 'make it shorter', ...)."""
+    convo = _convo(history, 4, 500)
     prompt = (
-        "Rewrite the user's latest question as one standalone English search query for a college "
-        "website (LIET, Greater Noida). The question may be Hindi (Devanagari) or Hinglish (Hindi in "
-        "Roman letters). Resolve pronouns using the conversation. Output only the query.\n\n"
-        f"Conversation:\n{convo}\nQuestion: {question}"
+        "You prepare a search query for the website of LIET (Lloyd Institute of Engineering & Technology, "
+        "Greater Noida). The user's latest message may be English, Hindi (Devanagari), Roman Hindi or Hinglish, "
+        "with slang, typos, abbreviations and emojis. Understand what they mean and resolve words like 'ye', "
+        "'isko', 'it', 'that' from the conversation. Output one short standalone English search query. "
+        "If the message needs no website lookup (greeting, thanks, or only asks to shorten, rephrase, translate, "
+        "change tone or language of the previous answer, or is about something unrelated to LIET), output exactly NONE. "
+        "Output only the query or NONE.\n\n"
+        f"Conversation:\n{convo}\nLatest message: {question}"
     )
     config = types.GenerateContentConfig(temperature=0)
     for model in GEN_MODELS:
@@ -147,11 +151,18 @@ def _to_english(question: str, history: list[dict] | None) -> str:
             continue
         try:
             text = (_client().models.generate_content(model=model, contents=prompt, config=config).text or "").strip()
-            return text or question
+            if not text:
+                return question
+            return None if text.upper().startswith("NONE") else text
         except Exception as e:  # quota, overload, bad key/model name: fall back to keyword expansion
             _dead_until[model] = time.time() + (3600 if getattr(e, "code", None) == 429 else 30)
             log.warning("query rewrite failed on %s: %s", model, e)
     return chat_local.expand_query(question)
+
+
+def _convo(history: list[dict] | None, n: int, limit: int) -> str:
+    """Last n messages as 'User: ... / Assistant: ...' lines, each clipped to limit characters."""
+    return "".join(f"{m['role'].capitalize()}: {m['content'][:limit]}\n" for m in (history or [])[-n:])
 
 
 _STOP = set("a an the of in on at to for is are was were be been do does did can could i my me we you your it its and or if "
@@ -250,8 +261,6 @@ def answer_stream(
     question: str, history: list[dict] | None = None, style: str = "short", use_cache: bool = False
 ) -> Iterator[str]:
     """Return an iterator of answer text pieces. use_cache: reuse/store answers for self-contained questions."""
-    if (chat := chat_local.smalltalk(question)) is not None:
-        return iter([chat])
     key = style + "|" + " ".join(question.lower().split())
     if use_cache and (hit := _cache_get(key)):
         def replay() -> Iterator[str]:
@@ -260,17 +269,17 @@ def answer_stream(
                 time.sleep(0.012)  # keeps the streaming feel without any API call
         return replay()
 
-    search_query = _to_english(question, history) if _needs_rewrite(question) else question
-    sources = retrieve(search_query)
-    context = "\n\n".join(s["text"] for s in sources)
-    convo = "".join(f"{m['role'].capitalize()}: {m['content']}\n" for m in (history or [])[-4:])
+    search_query = _search_query(question, history)
+    sources = retrieve(search_query) if search_query else []
+    context = "\n\n".join(s["text"] for s in sources) or "(no website lookup needed for this message)"
+    convo = _convo(history, 6, 1500)
     length = (
-        "Answer in at most 3 short sentences or a few bullets."
+        "Keep it short: at most 3 short sentences or a few bullets, unless the user asks for more detail."
         if style == "short"
         else "Give a thorough, well-structured answer with headings or bullets where useful."
     )
-    prompt = f"{length}\n\nContext:\n{context}\n\nConversation so far:\n{convo}\nQuestion: {question}"
-    config = types.GenerateContentConfig(system_instruction=SYSTEM_PROMPT, temperature=0.2)
+    prompt = f"{length}\n\nContext:\n{context}\n\nConversation so far:\n{convo}\nUser's latest message (reply to this, in their language and style): {question}"
+    config = types.GenerateContentConfig(system_instruction=SYSTEM_PROMPT, temperature=0.4)
 
     def generate() -> Iterator[str]:
         for model in GEN_MODELS:
@@ -290,8 +299,8 @@ def answer_stream(
                 _dead_until[model] = time.time() + (3600 if getattr(e, "code", None) == 429 else 30)
                 if parts:
                     return  # keep the partial answer instead of failing the whole reply
-        # Every model failed: answer from the retrieved website text so the user still gets help.
-        yield chat_local.fallback_answer(question, sources)
+        # Every model failed: small talk gets a canned friendly reply, anything else an answer built from the website text.
+        yield chat_local.smalltalk(question) or chat_local.fallback_answer(question, sources or retrieve(chat_local.expand_query(question)))
 
     return generate()
 
