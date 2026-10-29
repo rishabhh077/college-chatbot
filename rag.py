@@ -1,5 +1,6 @@
 """RAG pipeline: load docs -> chunk -> embed (local) -> retrieve -> answer."""
 import json
+import logging
 import os
 import re
 import time
@@ -14,7 +15,10 @@ from google import genai
 from google.genai import types
 from pypdf import PdfReader
 
+import chat_local
+
 load_dotenv()
+log = logging.getLogger(__name__)
 
 DOCS_DIR = Path("docs")
 INDEX_DIR = Path("index")
@@ -36,7 +40,8 @@ How to answer:
 2. The excerpts include blog articles that use generic phrases like "top private colleges" or mention other institutions. Treat those as being about LIET, and never present other colleges' details as LIET's.
 3. If the excerpts do not contain the answer and the question is about LIET specifics (fees, dates, names, phone numbers, policies), do not guess. Say you don't have that detail and give LIET's contact: admissions@liet.in, +91 9821582662.
 4. If the question is general (study advice, career, technology, entrance exams, or anything not specific to LIET), answer helpfully from your own knowledge, starting with "Not from LIET's website:". Where it fits, connect the answer back to LIET's relevant programs.
-5. Be concise and friendly. Do not mention file names, sources, page numbers or the word "context/excerpts" in your answer; the app shows sources separately.
+5. Never start a reply with "Sorry" and never apologise. For greetings or small talk (hi, thanks, how are you), reply warmly in the user's language and offer help with LIET topics. If a question is vague, ask one short clarifying question.
+6. Be concise and friendly. Do not mention file names, sources, page numbers or the word "context/excerpts" in your answer; the app shows sources separately.
 
 Hard questions:
 9. For multi-part questions, answer each part the excerpts cover and say plainly which part the website does not state. Never fill a gap with guessed numbers, percentages, company names, rules or dates.
@@ -46,7 +51,7 @@ Hard questions:
 13. Questions about what the website "hides", contradicts or advertises vs. regulations cannot be answered from it. Say that, then list what a student should verify and with whom.
 
 Language (very important):
-6. Detect the language of the user's latest question and reply in the same one:
+6a. Detect the language of the user's latest question and reply in the same one:
    - English question -> English answer.
    - Hindi written in Devanagari (e.g. "फीस कितनी है?") -> Hindi in Devanagari, in simple everyday words.
    - Hinglish, i.e. Hindi written in Roman letters (e.g. "hostel ki fees kitni hai?") -> Hinglish in Roman letters, the way a friendly Indian student would write it. Do not switch to Devanagari.
@@ -122,23 +127,9 @@ def _load_index(mtime: float) -> tuple[np.ndarray, list[dict]]:
     )
 
 
-_DEVANAGARI = re.compile(r"[\u0900-\u097F]")
-# Common Roman-script Hindi words; a question containing any of them is treated as Hinglish.
-_HINGLISH = set(
-    """kya kaise kaun kab kahan kahaan kitna kitni kitne kyun kyu kaisa hai hain   hoga hogi honge tha thi
-    mujhe mujhko mera meri mere hume humein hamara hamari aap aapka aapki tum tumhara kaise kaisa batao
-    bataiye bataye bata batana chahiye chahta chahti karna karni karein kare karte   sakta sakti sakte
-    milega milegi milta milti lena lene dena dene ka ki ke ko se mein     pe aur ya nahi nahin haan
-      bhi toh     liye   wala wali wale abhi kuch koi   jaldi pehle baad lagega lagti lagta
-    padhai padhna""".split()
-)
-
-
 def _needs_rewrite(question: str) -> bool:
     """True when the question is Hindi/Hinglish, which the English-only embedder cannot match well."""
-    if _DEVANAGARI.search(question):
-        return True
-    return any(w in _HINGLISH for w in re.findall(r"[a-z]+", question.lower()))
+    return chat_local.detect_language(question) != "en"
 
 
 def _to_english(question: str, history: list[dict] | None) -> str:
@@ -157,9 +148,10 @@ def _to_english(question: str, history: list[dict] | None) -> str:
         try:
             text = (_client().models.generate_content(model=model, contents=prompt, config=config).text or "").strip()
             return text or question
-        except (genai.errors.ServerError, genai.errors.ClientError) as e:
-            _dead_until[model] = time.time() + (3600 if e.code == 429 else 30)
-    return question
+        except Exception as e:  # quota, overload, bad key/model name: fall back to keyword expansion
+            _dead_until[model] = time.time() + (3600 if getattr(e, "code", None) == 429 else 30)
+            log.warning("query rewrite failed on %s: %s", model, e)
+    return chat_local.expand_query(question)
 
 
 _STOP = set("a an the of in on at to for is are was were be been do does did can could i my me we you your it its and or if "
@@ -258,6 +250,8 @@ def answer_stream(
     question: str, history: list[dict] | None = None, style: str = "short", use_cache: bool = False
 ) -> Iterator[str]:
     """Return an iterator of answer text pieces. use_cache: reuse/store answers for self-contained questions."""
+    if (chat := chat_local.smalltalk(question)) is not None:
+        return iter([chat])
     key = style + "|" + " ".join(question.lower().split())
     if use_cache and (hit := _cache_get(key)):
         def replay() -> Iterator[str]:
@@ -279,7 +273,6 @@ def answer_stream(
     config = types.GenerateContentConfig(system_instruction=SYSTEM_PROMPT, temperature=0.2)
 
     def generate() -> Iterator[str]:
-        last_err = None
         for model in GEN_MODELS:
             if _dead_until.get(model, 0) > time.time():
                 continue
@@ -292,12 +285,13 @@ def answer_stream(
                 if use_cache and parts:
                     _cache_put(key, "".join(parts))
                 return
-            except (genai.errors.ServerError, genai.errors.ClientError) as e:
-                last_err = e  # 429 quota / 503 overload: skip this model for a while, try the next
-                _dead_until[model] = time.time() + (3600 if e.code == 429 else 30)
+            except Exception as e:  # 429 quota / 503 overload / missing key / bad model: try the next model
+                log.warning("generation failed on %s: %s", model, e)
+                _dead_until[model] = time.time() + (3600 if getattr(e, "code", None) == 429 else 30)
                 if parts:
-                    raise  # already streamed part of an answer; do not restart on another model
-        raise last_err or RuntimeError("All models are rate-limited. Try again later.")
+                    return  # keep the partial answer instead of failing the whole reply
+        # Every model failed: answer from the retrieved website text so the user still gets help.
+        yield chat_local.fallback_answer(question, sources)
 
     return generate()
 

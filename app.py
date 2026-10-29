@@ -303,7 +303,8 @@ if question:
             reply = st.write_stream(itertools.chain([first], pieces))
         except Exception:
             holder.empty()
-            reply = "Sorry, I couldn't get an answer right now. Please try again in a moment."
+            rag.log.exception("answer failed")
+            reply = rag.chat_local.fallback_answer(question, [])
             st.markdown(reply)
     st.session_state.messages += [
         {"role": "user", "content": question},
